@@ -3,31 +3,41 @@
 @tailwind utilities;
 
 :root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+  --foreground-rgb: 24, 24, 24;
+  --foreground-light-rgb: 112, 112, 112;
+  --foreground-lightest-rgb: 167, 167, 167;
+  --background-rgb: 255, 255, 255;
+  --card-rgb: 255, 255, 255;
+  --link-rgb: 26, 112, 211;
+  --border-rgb: 227, 227, 227;
 }
 
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
   :root {
     --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
+    --foreground-light-rgb: 235, 235, 235;
+    --background-rgb: 0, 0, 0;
   }
-}
+} */
 
 body {
+  font-family: "Inter", sans-serif;
+
   color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  background-color: rgb(var(--background-rgb));
 }
 
 @layer utilities {
   .text-balance {
     text-wrap: balance;
+  }
+}
+
+@layer components {
+  .clickable {
+    @apply cursor-pointer hover:opacity-85 active:opacity-75;
+  }
+  .pressable {
+    @apply clickable active:scale-95;
   }
 }
