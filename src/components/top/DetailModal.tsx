@@ -58,7 +58,7 @@ const Modal: React.FC<ModalProps> = ({
       onClick={handleClickBackground}
     >
       {/* Scroller */}
-      <div className="py-5 overflow-y-scroll h-[100vh] w-full flex justify-center items-start md:items-center">
+      <div className="py-8 px-2 overflow-y-scroll h-[100vh] w-full flex justify-center items-start md:items-center">
         {/* Card */}
         <div
           className={`bg-card rounded-3xl shadow-lg overflow-hidden max-w-md md:max-w-4xl p-5 transition-all duration-1000 ease-out ${
