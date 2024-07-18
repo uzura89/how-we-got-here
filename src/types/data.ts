@@ -1,19 +1,23 @@
+/**
+ * Timeline data
+ */
+
 export interface EventType {
-  id: string;
-  title: string;
-  description: string;
-  link: string;
-  index: number;
+  id: string; // slug of the title
+  title: string; // title of the event
+  description: string; // around 300 characters
+  link: string; // link to a relevant Wikipedia page
+  index: number; // approximate year of the event (negative number for BC)
 }
 
 export interface CenturyType {
-  lastUpdated: string;
+  lastUpdated: string; // today's date in YYYY-MM-DD format
+  from: number; // start year of the century
+  to: number; // end year of the century
   events: EventType[];
 }
 
-export interface TimelineDataType {
-  [century: string]: CenturyType;
-}
+export type TimelineType = CenturyType[];
 
 export const INITIAL_EVENT: EventType = {
   id: "",

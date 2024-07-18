@@ -5,20 +5,22 @@ import ImageCard from "./ImageCard";
 import { getNumberSuffix } from "@/utils/stringUtils";
 
 interface CenturyProps {
-  century: string;
   events: EventType[];
+  yearFrom: number;
+  yearTo: number;
   lastUpdated: string;
 }
 
 export default function Century({
-  century,
   events,
+  yearFrom,
+  yearTo,
   lastUpdated,
 }: CenturyProps) {
   return (
     <div className="py-4 md:py-8 border-t border-border flex flex-col md:flex-row gap-5 md:gap-12">
       <div className="flex items-center md:items-start md:flex-col justify-between shrink-0">
-        <CenturyLabel century={century} />
+        <CenturyLabel yearFrom={yearFrom} yearTo={yearTo} />
         <div className="text-xs text-foreLightest">
           <p className="">Updated:</p>
           <p className="">{lastUpdated}</p>
@@ -33,34 +35,41 @@ export default function Century({
   );
 }
 
-function CenturyLabel({ century }: { century: string }) {
-  const isBC = century.startsWith("-");
-
-  const centuryStr = isBC ? century.slice(1) : century;
-  const suffix = getNumberSuffix(parseInt(centuryStr));
+function CenturyLabel({
+  yearFrom,
+  yearTo,
+}: {
+  yearFrom: number;
+  yearTo: number;
+}) {
+  const isBC = yearFrom < 0;
+  const byCentury = yearFrom >= -1200;
+  const centuryStr = byCentury
+    ? `${isBC ? (yearFrom * -1) / 100 : yearTo / 100}`
+    : "";
 
   return (
     <h2 className="font-bold flex items-end md:items-start gap-1 md:gap-0 md:flex-col font-serif">
-      {isBC && parseInt(centuryStr) >= 20 ? (
+      {!byCentury ? (
         <Fragment>
           <div className="flex items-center">
-            <span className="text-xl">{centuryStr.slice(0, -1) + ",000"}</span>
-            {parseInt(centuryStr) >= 20 && (
-              <span className="text-sm mt-0.5">~</span>
-            )}
+            <span className="text-xl">{`${yearFrom / 1000},000`}</span>
+            <span className="text-sm mt-0.5">~</span>
           </div>
         </Fragment>
       ) : (
         <Fragment>
           <div>
             <span className="text-2xl">{centuryStr}</span>
-            <span className="text-lg">{suffix}</span>
+            <span className="text-lg">
+              {getNumberSuffix(parseInt(centuryStr))}
+            </span>
           </div>
           <span className="text-lg md:text-base">Century</span>
         </Fragment>
       )}
 
-      {isBC && <span className="text-sm mt-0.5">B.C.E.</span>}
+      {isBC && <span className="text-sm mt-0.5 text-[#707070]">B.C.E.</span>}
     </h2>
   );
 }

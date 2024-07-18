@@ -1,0 +1,29 @@
+from: -1200
+to: -1101
+events:
+  - title: Trojan War
+    id: trojan-war
+    description: A legendary conflict between the Greeks and the city of Troy, immortalized in Homer's Iliad. While its historicity is debated, it reflects Bronze Age warfare and cultural interactions in the Aegean.
+    link: https://en.wikipedia.org/wiki/Trojan_War
+    index: -1184
+  - title: Iron Age Begins
+    id: iron-age-begins
+    description: The transition from the Bronze Age to the Iron Age, marked by the widespread use of iron for tools and weapons. This technological shift had profound impacts on society, warfare, and economic development.
+    link: https://en.wikipedia.org/wiki/Iron_Age
+    index: -1200
+  - title: Collapse of Bronze Age Civilizations
+    id: collapse-of-bronze-age-civilizations
+    description: A period of widespread societal collapse affecting many cultures in the Eastern Mediterranean and Near East. Possible causes include invasions, climate change, and systemic failures in interconnected economies.
+    link: https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse
+    index: -1177
+  - title: Phoenician Alphabet Developed
+    id: phoenician-alphabet-developed
+    description: The creation of the Phoenician alphabet, one of the oldest writing systems and the ancestor of many modern alphabets. It significantly simplified writing and contributed to the spread of literacy.
+    link: https://en.wikipedia.org/wiki/Phoenician_alphabet
+    index: -1050
+  - title: Olmec Civilization Emerges in Mesoamerica
+    id: olmec-civilization-emerges
+    description: The rise of the Olmec, considered the first major civilization in Mesoamerica. They developed a complex society with monumental architecture, distinctive art style, and influenced later Mesoamerican cultures.
+    link: https://en.wikipedia.org/wiki/Olmec
+    index: -1200
+lastUpdated: 2024-07-18

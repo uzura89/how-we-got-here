@@ -1,0 +1,20 @@
+Please list up important events in human history from 10,000 B.C.E. to the last century. 
+Plese select the events that are significant and interesting to all people around the world.
+The output format should be a yaml format like below:
+
+Timeline:
+  - from: -10,000
+    to: -4,001
+    events:
+      - title: "Invention of Agriculture" // 5 events for each group (10 for the last century)
+
+Divide them into groups of centuries like this:
+10000 B.C.E. ~ 4001 B.C.E.
+4000 B.C.E. ~ 3001 B.C.E
+3000 B.C.E. ~ 2001 B.C.E.
+2000 B.C.E. ~ 1200 B.C.E.
+12th century B.C.E
+11th century B.C.E
+10th century B.C.E
+...
+the last century

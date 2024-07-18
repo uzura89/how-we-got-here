@@ -1,0 +1,29 @@
+from: 1201
+to: 1300
+events:
+  - title: Magna Carta Signed
+    id: magna-carta-signed
+    description: King John of England signs the Magna Carta, a charter of rights agreeing to make peace with rebel barons. It establishes the principle that everyone, including the king, is subject to the law.
+    link: https://en.wikipedia.org/wiki/Magna_Carta
+    index: 1215
+  - title: Mongol Empire Reaches Greatest Extent
+    id: mongol-empire-reaches-greatest-extent
+    description: Under Kublai Khan, the Mongol Empire reaches its largest size, stretching from Eastern Europe to the Sea of Japan, covering approximately 24% of Earth's total land area.
+    link: https://en.wikipedia.org/wiki/Mongol_Empire
+    index: 1279
+  - title: Marco Polo Travels to China
+    id: marco-polo-travels-to-china
+    description: Venetian merchant Marco Polo embarks on his famous journey to China, which lasts 24 years. His later account of his travels would introduce Europeans to Central Asia and China.
+    link: https://en.wikipedia.org/wiki/Marco_Polo
+    index: 1271
+  - title: Rise of Ottoman Empire
+    id: rise-of-ottoman-empire
+    description: Osman I declares the independence of the Ottoman Empire from the Seljuk Turks, marking the beginning of over 600 years of Ottoman rule in the Middle East, North Africa, and parts of Europe.
+    link: https://en.wikipedia.org/wiki/Ottoman_Empire
+    index: 1299
+  - title: First Representative Parliament in England
+    id: first-representative-parliament-in-england
+    description: Simon de Montfort summons the first directly-elected parliament in medieval England, including representatives from towns and shires. This is considered a key step in the development of English democracy.
+    link: https://en.wikipedia.org/wiki/Parliament_of_England
+    index: 1265
+lastUpdated: 2024-07-18

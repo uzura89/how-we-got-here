@@ -1,0 +1,29 @@
+from: -900
+to: -801
+events:
+  - title: Assyrian Empire Expands
+    id: assyrian-empire-expands
+    description: The Assyrian Empire, centered in Mesopotamia, undergoes significant territorial expansion, becoming one of the most powerful empires of the ancient Near East. This period marks the beginning of the Neo-Assyrian Empire.
+    link: https://en.wikipedia.org/wiki/Neo-Assyrian_Empire
+    index: -884
+  - title: First Olympic Games Held (traditional date)
+    id: first-olympic-games-held
+    description: According to tradition, the first ancient Olympic Games are held in Olympia, Greece. These games were dedicated to the Olympian gods and featured mainly athletic but also combat and chariot racing events.
+    link: https://en.wikipedia.org/wiki/Ancient_Olympic_Games
+    index: -776
+  - title: Founding of Rome (traditional date)
+    id: founding-of-rome
+    description: The legendary founding of Rome by Romulus and Remus. While the actual date is disputed, this traditional date marks the beginning of one of the most influential civilizations in world history.
+    link: https://en.wikipedia.org/wiki/Founding_of_Rome
+    index: -753
+  - title: Rise of Etruscans in Italy
+    id: rise-of-etruscans-in-italy
+    description: The Etruscan civilization emerges as a major power in central Italy. Known for their advanced culture, art, and engineering, the Etruscans significantly influenced early Roman civilization.
+    link: https://en.wikipedia.org/wiki/Etruscan_civilization
+    index: -800
+  - title: Development of Greek Alphabet
+    id: development-of-greek-alphabet
+    description: The Greeks adapt the Phoenician writing system, creating the Greek alphabet. This innovation becomes the basis for many modern alphabets and greatly facilitates the spread of literacy in the ancient world.
+    link: https://en.wikipedia.org/wiki/Greek_alphabet
+    index: -800
+lastUpdated: 2024-07-18

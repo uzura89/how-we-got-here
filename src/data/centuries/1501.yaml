@@ -1,0 +1,29 @@
+from: 1501
+to: 1600
+events:
+  - title: Protestant Reformation Begins
+    id: protestant-reformation-begins
+    description: A religious movement led by Martin Luther that challenged the authority of the Catholic Church, leading to the establishment of Protestant churches and significant social and political changes across Europe.
+    link: https://en.wikipedia.org/wiki/Reformation
+    index: 1517
+  - title: Copernican Revolution in Astronomy
+    id: copernican-revolution-in-astronomy
+    description: Nicolaus Copernicus proposed a heliocentric model of the solar system, challenging the long-held geocentric view and revolutionizing our understanding of the cosmos.
+    link: https://en.wikipedia.org/wiki/Copernican_Revolution
+    index: 1543
+  - title: Spanish and Portuguese Empires Expand Globally
+    id: spanish-and-portuguese-empires-expand-globally
+    description: The Spanish and Portuguese empires established vast colonial networks across the Americas, Africa, and Asia, initiating the Age of Discovery and global trade networks.
+    link: https://en.wikipedia.org/wiki/Spanish_Empire
+    index: 1550
+  - title: Mughal Empire Established in India
+    id: mughal-empire-established-in-india
+    description: Babur founded the Mughal Empire in India, which would become one of the largest and most powerful empires in Indian history, known for its cultural and artistic achievements.
+    link: https://en.wikipedia.org/wiki/Mughal_Empire
+    index: 1526
+  - title: Shakespeare Writes Plays and Sonnets
+    id: shakespeare-writes-plays-and-sonnets
+    description: William Shakespeare, the renowned English playwright and poet, wrote numerous plays and sonnets that have become cornerstones of Western literature and continue to be performed and studied worldwide.
+    link: https://en.wikipedia.org/wiki/William_Shakespeare
+    index: 1590
+lastUpdated: 2024-07-18

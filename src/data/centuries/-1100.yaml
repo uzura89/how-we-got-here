@@ -1,0 +1,29 @@
+from: -1100
+to: -1001
+events:
+  - title: Greek Dark Ages Begin
+    id: greek-dark-ages-begin
+    description: A period of decline in Ancient Greece after the collapse of the Mycenaean civilization, characterized by a lack of written records and reduced cultural output.
+    link: https://en.wikipedia.org/wiki/Greek_Dark_Ages
+    index: -1100
+  - title: Kingdom of Israel United under Saul
+    id: kingdom-of-israel-united-under-saul
+    description: The establishment of the first united monarchy in ancient Israel, with Saul as the first king, marking a significant political shift from the period of Judges.
+    link: https://en.wikipedia.org/wiki/Kingdom_of_Israel_(united_monarchy)
+    index: -1050
+  - title: Zhou Dynasty Established in China
+    id: zhou-dynasty-established-in-china
+    description: The Zhou overthrow the Shang Dynasty, establishing a new era in Chinese history characterized by the concept of the Mandate of Heaven and significant cultural developments.
+    link: https://en.wikipedia.org/wiki/Zhou_dynasty
+    index: -1046
+  - title: Phoenicians Establish Trade Networks
+    id: phoenicians-establish-trade-networks
+    description: The Phoenicians expand their maritime trade networks across the Mediterranean, establishing colonies and spreading their alphabet, which influenced many writing systems.
+    link: https://en.wikipedia.org/wiki/Phoenicia
+    index: -1050
+  - title: Development of Ironworking in Sub-Saharan Africa
+    id: development-of-ironworking-in-sub-saharan-africa
+    description: The emergence of iron smelting technology in sub-Saharan Africa, particularly in the Great Lakes region, leading to significant social and economic changes.
+    link: https://en.wikipedia.org/wiki/Iron_metallurgy_in_Africa
+    index: -1000
+lastUpdated: 2024-07-18

@@ -1,0 +1,29 @@
+from: 801
+to: 900
+events:
+  - title: Feudalism Develops in Europe
+    id: feudalism-develops-in-europe
+    description: Feudalism emerges as the dominant social and political system in medieval Europe, characterized by a hierarchical structure of lords and vassals, land ownership, and military service in exchange for protection and land use rights.
+    link: https://en.wikipedia.org/wiki/Feudalism
+    index: 850
+  - title: Khmer Empire Founded in Southeast Asia
+    id: khmer-empire-founded-in-southeast-asia
+    description: The Khmer Empire, centered in modern-day Cambodia, is established and becomes one of the most powerful and sophisticated civilizations in Southeast Asia, known for its impressive architectural achievements like Angkor Wat.
+    link: https://en.wikipedia.org/wiki/Khmer_Empire
+    index: 802
+  - title: Great Moravian Empire in Central Europe
+    id: great-moravian-empire-in-central-europe
+    description: The Great Moravian Empire emerges as a significant political entity in Central Europe, encompassing parts of modern-day Czech Republic, Slovakia, and Hungary, playing a crucial role in the Christianization of the Slavic peoples.
+    link: https://en.wikipedia.org/wiki/Great_Moravia
+    index: 833
+  - title: Decline of Abbasid Caliphate
+    id: decline-of-abbasid-caliphate
+    description: The Abbasid Caliphate, once the center of Islamic power, begins to fragment and lose control over its vast territories, leading to the rise of independent dynasties and the gradual erosion of central authority in the Islamic world.
+    link: https://en.wikipedia.org/wiki/Abbasid_Caliphate#Decline_(861%E2%80%931258)
+    index: 861
+  - title: Rise of Toltec Civilization in Mesoamerica
+    id: rise-of-toltec-civilization-in-mesoamerica
+    description: The Toltec civilization emerges as a dominant force in central Mexico, known for its military prowess, artistic achievements, and influence on later Mesoamerican cultures, including the Aztecs.
+    link: https://en.wikipedia.org/wiki/Toltec
+    index: 900
+lastUpdated: 2024-07-18

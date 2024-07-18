@@ -1,0 +1,29 @@
+from: 701
+to: 800
+events:
+  - title: Charlemagne Crowned Holy Roman Emperor
+    id: charlemagne-crowned-holy-roman-emperor
+    description: On Christmas Day 800, Charlemagne was crowned Emperor of the Romans by Pope Leo III in Rome, establishing the Holy Roman Empire and marking a significant moment in European history.
+    link: https://en.wikipedia.org/wiki/Charlemagne
+    index: 800
+  - title: Islamic Golden Age Begins
+    id: islamic-golden-age-begins
+    description: The Islamic Golden Age, a period of cultural, economic, and scientific flourishing in the Islamic world, began around the 8th century and lasted until the 13th century.
+    link: https://en.wikipedia.org/wiki/Islamic_Golden_Age
+    index: 750
+  - title: Vikings Begin Raids in Europe
+    id: vikings-begin-raids-in-europe
+    description: The Viking Age began in the late 8th century with raids on monasteries in northern England, marking the start of centuries of Norse expansion and influence across Europe.
+    link: https://en.wikipedia.org/wiki/Viking_Age
+    index: 793
+  - title: An Lushan Rebellion in China
+    id: an-lushan-rebellion-in-china
+    description: The An Lushan Rebellion was a devastating conflict that lasted from 755 to 763, significantly weakening the Tang Dynasty and changing the course of Chinese history.
+    link: https://en.wikipedia.org/wiki/An_Lushan_Rebellion
+    index: 755
+  - title: Invention of Gunpowder in China
+    id: invention-of-gunpowder-in-china
+    description: Chinese alchemists accidentally discovered gunpowder while searching for an elixir of immortality, leading to significant advancements in warfare and technology.
+    link: https://en.wikipedia.org/wiki/History_of_gunpowder
+    index: 750
+lastUpdated: 2024-07-18

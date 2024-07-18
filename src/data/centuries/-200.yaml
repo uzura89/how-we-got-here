@@ -1,0 +1,29 @@
+from: -200
+to: -101
+events:
+  - title: Han Dynasty Established in China
+    id: han-dynasty-established-in-china
+    description: The Han Dynasty, founded by Liu Bang, began in 202 BC and marked a golden age in Chinese history. It saw advancements in arts, culture, and technology, and the expansion of the Silk Road trade network.
+    link: https://en.wikipedia.org/wiki/Han_dynasty
+    index: -202
+  - title: Roman Expansion in Mediterranean
+    id: roman-expansion-in-mediterranean
+    description: During this period, Rome significantly expanded its territory and influence around the Mediterranean. Key events included the defeat of Carthage in the Punic Wars and the conquest of Greece, establishing Rome as the dominant power in the region.
+    link: https://en.wikipedia.org/wiki/Roman_Republic
+    index: -150
+  - title: Development of Paper in China
+    id: development-of-paper-in-china
+    description: The invention of paper is traditionally attributed to Cai Lun of the Han Dynasty around 105 AD. However, recent archaeological evidence suggests that paper was in use as early as the 2nd century BC, revolutionizing record-keeping and communication.
+    link: https://en.wikipedia.org/wiki/History_of_paper
+    index: -200
+  - title: Rise of Parthian Empire
+    id: rise-of-parthian-empire
+    description: The Parthian Empire, led by the Arsacid dynasty, rose to power in ancient Iran and Iraq. It became a formidable eastern rival to Rome, known for its skilled horsemen and archers, and controlled important trade routes.
+    link: https://en.wikipedia.org/wiki/Parthian_Empire
+    index: -247
+  - title: Establishment of Silk Road Trade
+    id: establishment-of-silk-road-trade
+    description: The Silk Road, a network of trade routes connecting the East and West, was formally established during the Han Dynasty. It facilitated the exchange of goods, technologies, and ideas between China and the Mediterranean world.
+    link: https://en.wikipedia.org/wiki/Silk_Road
+    index: -130
+lastUpdated: 2024-07-18

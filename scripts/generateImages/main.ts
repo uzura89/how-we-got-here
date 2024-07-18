@@ -6,10 +6,10 @@ import path, { dirname } from "path";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-import { CenturyType } from "./../../src/types/data";
 import { EventType } from "../../src/types/data";
-import { TIMELINE } from "../../src/data/timeline";
 import generateImage from "./modules/generateImage";
+import getTimeline from "@/data/getTimeline";
+import { delayedForEach } from "@/utils/arrayUtils";
 
 /**
  * Constants
@@ -25,17 +25,14 @@ const IMAGE_EXTENTION = ".webp";
 async function main() {
   const eventsWithNoImage = getEventsWithNoImage();
 
-  // shuffle the order
-  eventsWithNoImage.sort(() => Math.random() - 0.5);
-
-  eventsWithNoImage.slice(0, 10).forEach(async (event: EventType) => {
-    const { id, title, description, index } = event;
-    try {
-      await generateAndSaveImage(id, title, description, index);
-    } catch (error) {
-      console.error(error);
-    }
-  });
+  delayedForEach(
+    eventsWithNoImage,
+    (event, index) => {
+      const { id, title, description } = event;
+      generateAndSaveImage(id, title, description, index);
+    },
+    1000 * 5
+  );
 }
 
 /**
@@ -44,8 +41,8 @@ async function main() {
 
 function getEventsWithNoImage(): EventType[] {
   // get all events
-  const centuries = Object.values(TIMELINE) as CenturyType[];
-  const allEvents: EventType[] = centuries
+  const timeline = getTimeline();
+  const allEvents: EventType[] = timeline
     .map((century) => {
       return century.events;
     })
@@ -84,7 +81,14 @@ async function generateAndSaveImage(
  */
 
 async function saveImageAsFile(id: string, imageUrl: string) {
+  const PATH_TO_IMAGE = path.join(IMAGE_DIR, `${id}${IMAGE_EXTENTION}`);
+
   try {
+    // if there is existing image, throw error
+    if (fs.existsSync(PATH_TO_IMAGE)) {
+      throw new Error(`Image already exists for event ${id}`);
+    }
+
     // Fetch the image
     const response = await fetch(imageUrl);
     if (!response.ok) {
@@ -94,11 +98,8 @@ async function saveImageAsFile(id: string, imageUrl: string) {
     // Get the image data as a Buffer
     const imageBuffer = await response.buffer();
 
-    // Create the file path
-    const filePath = path.join(IMAGE_DIR, `${id}${IMAGE_EXTENTION}`);
-
     // Write the image data to a file
-    await fs.promises.writeFile(filePath, imageBuffer);
+    await fs.promises.writeFile(PATH_TO_IMAGE, imageBuffer);
   } catch (error) {
     console.error(`Error saving image for event ${id}:`, error);
     throw error; // Re-throw the error to be caught in the calling function

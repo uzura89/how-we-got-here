@@ -1,0 +1,29 @@
+from: -1000
+to: -901
+events:
+  - title: Construction of Solomon's Temple
+    id: construction-of-solomons-temple
+    description: The First Temple, also known as Solomon's Temple, was the main center of worship for the Israelites. According to the Bible, it was constructed under King Solomon's reign and was the most important religious site in ancient Israel.
+    link: https://en.wikipedia.org/wiki/Solomon%27s_Temple
+    index: -957
+  - title: Homer Composes Iliad and Odyssey (traditional date)
+    id: homer-composes-iliad-and-odyssey
+    description: Homer, the legendary Greek poet, is traditionally credited with composing the epic poems Iliad and Odyssey. These works are foundational to Western literature and provide insight into ancient Greek culture and mythology.
+    link: https://en.wikipedia.org/wiki/Homer
+    index: -950
+  - title: Founding of Carthage
+    id: founding-of-carthage
+    description: Carthage, a powerful ancient city-state, was founded by Phoenician colonists from Tyre on the coast of North Africa. It became a major maritime power in the Mediterranean and a rival to Rome.
+    link: https://en.wikipedia.org/wiki/Ancient_Carthage
+    index: -914
+  - title: Greek City-States Begin to Form
+    id: greek-city-states-begin-to-form
+    description: The emergence of Greek city-states, or poleis, marked a significant development in ancient Greek civilization. These independent states, such as Athens and Sparta, became the centers of Greek political, economic, and cultural life.
+    link: https://en.wikipedia.org/wiki/Polis
+    index: -1000
+  - title: Rise of Chavín Culture in Peru
+    id: rise-of-chavin-culture-in-peru
+    description: The Chavín culture, one of the earliest complex societies in South America, emerged in the northern Andean highlands of Peru. It is known for its distinctive art style and complex religious iconography.
+    link: https://en.wikipedia.org/wiki/Chav%C3%ADn_culture
+    index: -1000
+lastUpdated: 2024-07-18

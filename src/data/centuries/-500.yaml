@@ -1,0 +1,29 @@
+from: -500
+to: -401
+events:
+  - title: Persian Wars
+    id: persian-wars
+    description: A series of conflicts between the Achaemenid Empire of Persia and Greek city-states that started in the 5th century BC and lasted for almost half a century. It marked a turning point in European history.
+    link: https://en.wikipedia.org/wiki/Greco-Persian_Wars
+    index: -499
+  - title: Golden Age of Athens
+    id: golden-age-of-athens
+    description: A period in Greek history lasting approximately 50 years from the end of the Persian Wars until the beginning of the Peloponnesian War. It was a time of Athenian political hegemony, economic growth, and cultural flourishing.
+    link: https://en.wikipedia.org/wiki/Golden_Age_of_Athens
+    index: -480
+  - title: Construction of Parthenon
+    id: construction-of-parthenon
+    description: The building of the Parthenon, a former temple on the Athenian Acropolis, Greece. It is considered the most important surviving building of Classical Greece and the zenith of the Doric order.
+    link: https://en.wikipedia.org/wiki/Parthenon
+    index: -447
+  - title: Roman Republic Established
+    id: roman-republic-established
+    description: The founding of the Roman Republic, a state of ancient Rome characterized by a republican form of government. It began with the overthrow of the Roman monarchy and lasted until the establishment of the Roman Empire.
+    link: https://en.wikipedia.org/wiki/Roman_Republic
+    index: -509
+  - title: Warring States Period Begins in China
+    id: warring-states-period-begins-in-china
+    description: The start of an era in ancient Chinese history characterized by warfare between seven major states. It was a time of great cultural and intellectual expansion, leading to the development of many philosophical schools.
+    link: https://en.wikipedia.org/wiki/Warring_States_period
+    index: -475
+lastUpdated: 2024-07-18

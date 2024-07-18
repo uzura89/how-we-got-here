@@ -1,0 +1,29 @@
+from: 1401
+to: 1500
+events:
+  - title: European Age of Exploration Begins
+    id: european-age-of-exploration-begins
+    description: A period of extensive overseas exploration emerged, led by Portuguese and Spanish expeditions across the Atlantic Ocean and to the Americas, Africa, and Asia, marking the beginning of globalization and European colonialism.
+    link: https://en.wikipedia.org/wiki/Age_of_Discovery
+    index: 1415
+  - title: Printing Press Invented by Gutenberg
+    id: printing-press-invented-by-gutenberg
+    description: Johannes Gutenberg developed the movable-type printing press in Europe, revolutionizing the spread of information and playing a key role in the Renaissance, Reformation, and Scientific Revolution.
+    link: https://en.wikipedia.org/wiki/Printing_press
+    index: 1440
+  - title: Fall of Constantinople to Ottoman Turks
+    id: fall-of-constantinople-to-ottoman-turks
+    description: The Byzantine Empire's capital fell to the Ottoman Empire, marking the end of the Roman Empire's last remnant and significantly shifting the balance of power in the Eastern Mediterranean and beyond.
+    link: https://en.wikipedia.org/wiki/Fall_of_Constantinople
+    index: 1453
+  - title: Christopher Columbus Reaches Americas
+    id: christopher-columbus-reaches-americas
+    description: Columbus's voyage across the Atlantic Ocean led to the first sustained European contact with the Americas, initiating the Columbian Exchange and paving the way for widespread European exploration and colonization.
+    link: https://en.wikipedia.org/wiki/Voyages_of_Christopher_Columbus
+    index: 1492
+  - title: Leonardo da Vinci's Scientific and Artistic Work
+    id: leonardo-da-vincis-scientific-and-artistic-work
+    description: The Italian polymath made significant contributions to various fields including art, science, engineering, and anatomy. His works, such as the Mona Lisa and The Last Supper, became iconic representations of Renaissance art.
+    link: https://en.wikipedia.org/wiki/Leonardo_da_Vinci
+    index: 1480
+lastUpdated: 2024-07-18

@@ -1,0 +1,29 @@
+from: 601
+to: 700
+events:
+  - title: Rise of Islam
+    id: rise-of-islam
+    description: The emergence and rapid spread of Islam, founded by Prophet Muhammad in the Arabian Peninsula. This period saw the establishment of the first Islamic state and the beginning of Islamic expansion.
+    link: https://en.wikipedia.org/wiki/Early_Muslim_conquests
+    index: 610
+  - title: Arab Conquest of Middle East and North Africa
+    id: arab-conquest-middle-east-north-africa
+    description: A series of military campaigns by the early Muslim Arabs that led to the conquest of the Byzantine and Sassanid empires, spreading Islam across a vast territory from Persia to North Africa.
+    link: https://en.wikipedia.org/wiki/Muslim_conquest_of_the_Levant
+    index: 632
+  - title: Tang Dynasty Established in China
+    id: tang-dynasty-established-china
+    description: The founding of the Tang Dynasty by Li Yuan, marking the beginning of one of China's most prosperous and influential periods, characterized by cultural richness and territorial expansion.
+    link: https://en.wikipedia.org/wiki/Tang_dynasty
+    index: 618
+  - title: Synod of Whitby in England
+    id: synod-of-whitby-england
+    description: A pivotal church council that decided the Northumbrian church would follow Roman rather than Celtic Christian practices, significantly influencing the development of Christianity in England.
+    link: https://en.wikipedia.org/wiki/Synod_of_Whitby
+    index: 664
+  - title: Mayan Classical Age
+    id: mayan-classical-age
+    description: The peak period of Mayan civilization, characterized by the construction of monumental architecture, advanced writing systems, and sophisticated astronomical observations in Mesoamerica.
+    link: https://en.wikipedia.org/wiki/Classic_Maya_collapse
+    index: 650
+lastUpdated: 2024-07-18

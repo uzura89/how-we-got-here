@@ -1,8 +1,9 @@
-import { TimelineDataType } from "../types/data";
-import { TIMELINE } from "@/data/timeline";
+import getTimeline from "@/data/getTimeline";
+import { TimelineType } from "../types/data";
 
-export function getTimelineData(): TimelineDataType {
-  return TIMELINE;
+export function getTimelineData(): TimelineType {
+  const timeline = getTimeline();
+  return timeline;
 }
 
 export function getImagePath(eventId: string): string {

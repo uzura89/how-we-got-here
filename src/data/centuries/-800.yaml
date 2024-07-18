@@ -1,0 +1,29 @@
+from: -800
+to: -701
+events:
+  - title: Greek Colonization of Mediterranean Begins
+    id: greek-colonization-of-mediterranean-begins
+    description: Greek city-states began establishing colonies throughout the Mediterranean and Black Sea regions, spreading Hellenic culture and trade networks across a vast area.
+    link: https://en.wikipedia.org/wiki/Greek_colonisation
+    index: -750
+  - title: Rise of City-States in Maya Civilization
+    id: rise-of-city-states-in-maya-civilization
+    description: The Maya civilization saw the emergence of powerful city-states, marking a period of increased political complexity and cultural development in Mesoamerica.
+    link: https://en.wikipedia.org/wiki/Maya_civilization
+    index: -750
+  - title: Founding of Carthage
+    id: founding-of-carthage
+    description: Carthage, a major power in the ancient Mediterranean, was founded by Phoenician colonists from Tyre on the coast of North Africa, becoming a dominant maritime and commercial center.
+    link: https://en.wikipedia.org/wiki/Ancient_Carthage
+    index: -814
+  - title: Development of Sanskrit Grammar
+    id: development-of-sanskrit-grammar
+    description: Pāṇini, an ancient Indian linguist, developed a comprehensive and scientific theory of grammar for Sanskrit, influencing linguistic studies for centuries to come.
+    link: https://en.wikipedia.org/wiki/P%C4%81%E1%B9%87ini
+    index: -750
+  - title: Zhou Dynasty Declines in China
+    id: zhou-dynasty-declines-in-china
+    description: The Zhou Dynasty in China began to lose centralized control, leading to the fragmentation of power and the beginning of the Spring and Autumn period.
+    link: https://en.wikipedia.org/wiki/Zhou_dynasty
+    index: -770
+lastUpdated: 2024-07-18

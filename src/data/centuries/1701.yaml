@@ -1,0 +1,29 @@
+from: 1701
+to: 1800
+events:
+  - title: Industrial Revolution Begins
+    id: industrial-revolution-begins
+    description: A period of major industrialization that transformed largely rural, agrarian societies in Europe and America into industrialized, urban ones. It marked a major turning point in history, influencing almost every aspect of daily life.
+    link: https://en.wikipedia.org/wiki/Industrial_Revolution
+    index: 1760
+  - title: American Revolution
+    id: american-revolution
+    description: A colonial revolt that took place between 1765 and 1783. The American Patriots in the Thirteen Colonies rejected the authority of the British Parliament to govern them without elected representation and established the United States of America.
+    link: https://en.wikipedia.org/wiki/American_Revolution
+    index: 1775
+  - title: French Revolution
+    id: french-revolution
+    description: A period of far-reaching social and political upheaval in France that lasted from 1789 until the late 1790s. It overthrew the monarchy, established a republic, catalyzed violent periods of political turmoil, and significantly altered French history.
+    link: https://en.wikipedia.org/wiki/French_Revolution
+    index: 1789
+  - title: Enlightenment Era
+    id: enlightenment-era
+    description: An intellectual and philosophical movement that dominated the world of ideas in Europe during the 18th century. It emphasized reason, individualism, and skepticism of traditional institutions and ways of thinking.
+    link: https://en.wikipedia.org/wiki/Age_of_Enlightenment
+    index: 1715
+  - title: Captain Cook Explores Pacific
+    id: captain-cook-explores-pacific
+    description: British explorer James Cook made three voyages to the Pacific Ocean, during which he achieved the first recorded European contact with the eastern coastline of Australia and the Hawaiian Islands, as well as the first recorded circumnavigation of New Zealand.
+    link: https://en.wikipedia.org/wiki/James_Cook
+    index: 1768
+lastUpdated: 2024-07-18

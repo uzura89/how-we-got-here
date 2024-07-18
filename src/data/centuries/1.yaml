@@ -1,0 +1,29 @@
+from: 1
+to: 100
+events:
+  - title: Crucifixion of Jesus Christ
+    id: crucifixion-of-jesus-christ
+    description: The execution of Jesus Christ by crucifixion, a method of capital punishment used by the Romans. This event is central to Christian theology, believed to be the culmination of God's plan for human salvation.
+    link: https://en.wikipedia.org/wiki/Crucifixion_of_Jesus
+    index: 30
+  - title: Destruction of Jerusalem and Second Temple
+    id: destruction-of-jerusalem-and-second-temple
+    description: The Roman siege and destruction of Jerusalem, including the Second Temple, during the First Jewish-Roman War. This event had profound effects on Judaism and early Christianity.
+    link: https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(70_CE)
+    index: 70
+  - title: Eruption of Vesuvius Destroys Pompeii
+    id: eruption-of-vesuvius-destroys-pompeii
+    description: The catastrophic eruption of Mount Vesuvius that buried the Roman cities of Pompeii, Herculaneum, and several other settlements. The event preserved these ancient cities, providing invaluable archaeological insights.
+    link: https://en.wikipedia.org/wiki/Eruption_of_Mount_Vesuvius_in_79_AD
+    index: 79
+  - title: Roman Empire Reaches Greatest Extent
+    id: roman-empire-reaches-greatest-extent
+    description: Under Emperor Trajan, the Roman Empire reached its territorial peak, spanning from Britain to the Persian Gulf. This period marked the height of Roman power and influence across Europe, North Africa, and the Middle East.
+    link: https://en.wikipedia.org/wiki/Roman_Empire
+    index: 117
+  - title: Development of Christianity
+    id: development-of-christianity
+    description: The growth and spread of Christianity from a small Jewish sect to a major religion within the Roman Empire. This period saw the formation of early Christian communities, doctrines, and practices.
+    link: https://en.wikipedia.org/wiki/Early_Christianity
+    index: 50
+lastUpdated: 2024-07-18

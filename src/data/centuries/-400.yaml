@@ -1,0 +1,29 @@
+from: -400
+to: -301
+events:
+  - title: Rise of Alexander the Great
+    id: rise-of-alexander-the-great
+    description: Alexander III of Macedon ascends to power and begins his conquest of the Persian Empire, creating one of the largest empires of the ancient world and spreading Hellenistic culture across a vast territory.
+    link: https://en.wikipedia.org/wiki/Alexander_the_Great
+    index: -336
+  - title: Founding of Alexandria
+    id: founding-of-alexandria
+    description: Alexander the Great establishes the city of Alexandria in Egypt, which becomes a major center of Hellenistic civilization and home to the famous Library of Alexandria.
+    link: https://en.wikipedia.org/wiki/Alexandria
+    index: -331
+  - title: Development of Hellenistic Culture
+    id: development-of-hellenistic-culture
+    description: The blending of Greek culture with local traditions in the conquered territories leads to the emergence of Hellenistic culture, characterized by advancements in art, science, and philosophy.
+    link: https://en.wikipedia.org/wiki/Hellenistic_period
+    index: -323
+  - title: Maurya Empire Founded in India
+    id: maurya-empire-founded-in-india
+    description: Chandragupta Maurya establishes the Maurya Empire in India, unifying much of the Indian subcontinent and creating one of the largest empires in ancient Indian history.
+    link: https://en.wikipedia.org/wiki/Maurya_Empire
+    index: -322
+  - title: Euclid Writes 'Elements'
+    id: euclid-writes-elements
+    description: Greek mathematician Euclid composes 'Elements', a comprehensive treatise on mathematics that becomes the main textbook for teaching mathematics for over 2000 years.
+    link: https://en.wikipedia.org/wiki/Euclid%27s_Elements
+    index: -300
+lastUpdated: 2024-07-18

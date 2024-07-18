@@ -1,15 +1,11 @@
-import { TimelineDataType } from "@/types/data";
+import { TimelineType } from "@/types/data";
 
 import { getImagePath, getTimelineData } from "@/utils/dataUtils";
 import Timeline from "@/components/top/Timeline";
 import DetailModal from "@/components/top/DetailModal";
 import useModalStore from "@/store/modalStore";
 
-export default function Home({
-  timelineData,
-}: {
-  timelineData: TimelineDataType;
-}) {
+export default function Home({ timelineData }: { timelineData: TimelineType }) {
   const modalStore = useModalStore();
 
   return (
@@ -30,6 +26,7 @@ export default function Home({
 
 export async function getStaticProps() {
   const timelineData = getTimelineData();
+
   return {
     props: {
       timelineData,

@@ -1,0 +1,29 @@
+from: -2000
+to: -1201
+events:
+  - title: Code of Hammurabi Created
+    id: code-of-hammurabi-created
+    description: One of the earliest and most complete written legal codes, established by the Babylonian king Hammurabi. It set standards for commercial interactions and fines and punishments for various offenses.
+    link: https://en.wikipedia.org/wiki/Code_of_Hammurabi
+    index: -1754
+  - title: Invention of Glass
+    id: invention-of-glass
+    description: The first true glass was produced in coastal north Syria, Mesopotamia or Egypt. The earliest known glass objects were beads, perhaps created accidentally during metalworking or in the production of faience.
+    link: https://en.wikipedia.org/wiki/History_of_glass
+    index: -1500
+  - title: Development of Alphabet (Proto-Sinaitic script)
+    id: development-of-alphabet-proto-sinaitic-script
+    description: The Proto-Sinaitic script is considered the earliest known alphabetic writing system. It developed in the Sinai Peninsula around 1850 BC, and is believed to be the ancestor of nearly all modern alphabets.
+    link: https://en.wikipedia.org/wiki/Proto-Sinaitic_script
+    index: -1850
+  - title: Domestication of the Horse
+    id: domestication-of-the-horse
+    description: Horses were first domesticated in the Pontic-Caspian steppe, northern Caucasus. This revolutionized transportation, warfare, and agriculture, significantly impacting human civilization.
+    link: https://en.wikipedia.org/wiki/Domestication_of_the_horse
+    index: -3500
+  - title: Rise of Mycenaean Civilization
+    id: rise-of-mycenaean-civilization
+    description: The Mycenaean civilization was the first advanced civilization on mainland Greece. It played a vital role in the development of classical Greek culture and was renowned for its palaces, artwork, and the legendary Trojan War.
+    link: https://en.wikipedia.org/wiki/Mycenaean_Greece
+    index: -1600
+lastUpdated: 2024-07-18

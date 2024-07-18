@@ -1,0 +1,29 @@
+from: -4000
+to: -3001
+events:
+  - title: Invention of Writing (Cuneiform)
+    id: invention-of-writing-cuneiform
+    description: The development of cuneiform, one of the earliest known writing systems, originated in Mesopotamia. This revolutionary invention allowed for record-keeping, literature, and the preservation of knowledge.
+    link: https://en.wikipedia.org/wiki/Cuneiform
+    index: -3200
+  - title: Bronze Age Begins
+    id: bronze-age-begins
+    description: The Bronze Age marked a period of human cultural development characterized by the widespread use of bronze, an alloy of copper and tin. This era saw significant advancements in metallurgy and tool-making.
+    link: https://en.wikipedia.org/wiki/Bronze_Age
+    index: -3300
+  - title: Construction of Pyramids in Egypt
+    id: construction-of-pyramids-in-egypt
+    description: The ancient Egyptians built massive pyramid structures as tombs for pharaohs and their consorts. The Great Pyramid of Giza, one of the Seven Wonders of the Ancient World, was constructed during this period.
+    link: https://en.wikipedia.org/wiki/Egyptian_pyramids
+    index: -2686
+  - title: Development of Sumerian Civilization
+    id: development-of-sumerian-civilization
+    description: The Sumerians established one of the world's earliest civilizations in southern Mesopotamia. They developed complex social structures, created sophisticated irrigation systems, and invented the wheel.
+    link: https://en.wikipedia.org/wiki/Sumer
+    index: -3500
+  - title: Invention of the Plow
+    id: invention-of-the-plow
+    description: The invention of the plow revolutionized agriculture, allowing for more efficient cultivation of land. This innovation led to increased food production and supported the growth of early civilizations.
+    link: https://en.wikipedia.org/wiki/Plow
+    index: -3500
+lastUpdated: 2024-07-18

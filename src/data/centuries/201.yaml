@@ -1,0 +1,29 @@
+from: 201
+to: 300
+events:
+  - title: Rise of Sassanid Empire in Persia
+    id: rise-of-sassanid-empire-in-persia
+    description: The Sassanid Empire emerged in Persia, overthrowing the Parthian Empire. It became one of the most powerful and influential empires of Late Antiquity, rivaling Rome and later Byzantium for centuries.
+    link: https://en.wikipedia.org/wiki/Sasanian_Empire
+    index: 224
+  - title: Three Kingdoms Period in China
+    id: three-kingdoms-period-in-china
+    description: "Following the fall of the Han Dynasty, China was divided into three warring states: Wei, Shu, and Wu. This period was marked by military conflicts, technological advancements, and cultural developments."
+    link: https://en.wikipedia.org/wiki/Three_Kingdoms
+    index: 220
+  - title: Roman Empire Split into Western and Eastern Empires
+    id: roman-empire-split-into-western-and-eastern-empires
+    description: Emperor Diocletian divided the Roman Empire into two administrative divisions to better manage its vast territory. This split would eventually lead to the permanent division of the empire.
+    link: https://en.wikipedia.org/wiki/Diocletian#New_governmental_system:_the_Tetrarchy
+    index: 285
+  - title: Diocletian Reforms Roman Empire
+    id: diocletian-reforms-roman-empire
+    description: Emperor Diocletian implemented wide-ranging reforms to stabilize the Roman Empire, including administrative, military, and economic changes. These reforms helped prolong the life of the empire.
+    link: https://en.wikipedia.org/wiki/Diocletian_reforms
+    index: 284
+  - title: Development of Neo-Platonism
+    id: development-of-neo-platonism
+    description: Neo-Platonism, a philosophical and religious system based on the teachings of Plato, emerged and gained prominence. It had a significant influence on early Christian theology and medieval philosophy.
+    link: https://en.wikipedia.org/wiki/Neoplatonism
+    index: 250
+lastUpdated: "2024-07-18"

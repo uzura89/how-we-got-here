@@ -1,0 +1,29 @@
+from: 1301
+to: 1400
+events:
+  - title: Black Death Pandemic
+    id: black-death-pandemic
+    description: A devastating global epidemic of bubonic plague that peaked in Europe from 1347 to 1351. It killed 30–60% of Europe's population and had profound social and economic consequences.
+    link: https://en.wikipedia.org/wiki/Black_Death
+    index: 1347
+  - title: Hundred Years' War Begins
+    id: hundred-years-war-begins
+    description: A long-running conflict between the Kingdom of England and the Kingdom of France, lasting from 1337 to 1453. It had a significant impact on the development of national identities in both countries.
+    link: https://en.wikipedia.org/wiki/Hundred_Years%27_War
+    index: 1337
+  - title: Renaissance Begins in Italy
+    id: renaissance-begins-in-italy
+    description: A period of cultural, artistic, political, and economic revival following the Middle Ages. It began in Italy in the late 14th century and later spread to the rest of Europe, marking the transition from Medieval to Early Modern Europe.
+    link: https://en.wikipedia.org/wiki/Renaissance
+    index: 1350
+  - title: Ming Dynasty Established in China
+    id: ming-dynasty-established-in-china
+    description: The founding of the Ming dynasty by Zhu Yuanzhang, who became the Hongwu Emperor. The Ming ruled China for 276 years, overseeing a period of economic growth and cultural flourishing.
+    link: https://en.wikipedia.org/wiki/Ming_dynasty
+    index: 1368
+  - title: Timur (Tamerlane) Conquers Central Asia
+    id: timur-conquers-central-asia
+    description: Timur, also known as Tamerlane, established a vast empire in Central Asia. His military campaigns led to the deaths of millions and had a significant impact on the political landscape of the region.
+    link: https://en.wikipedia.org/wiki/Timur
+    index: 1370
+lastUpdated: 2024-07-18

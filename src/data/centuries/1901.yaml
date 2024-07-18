@@ -1,0 +1,52 @@
+from: 1901
+to: 2000
+events:
+  - title: World War I and II
+    id: world-war-i-and-ii
+    description: Two global conflicts that reshaped the world order. World War I (1914-1918) involved major powers and introduced modern warfare. World War II (1939-1945) was even more devastating, leading to significant geopolitical changes and the dawn of the nuclear age.
+    link: https://en.wikipedia.org/wiki/World_Wars
+    index: 1914
+  - title: Russian Revolution
+    id: russian-revolution
+    description: A series of revolutions in Russia in 1917 that dismantled the Tsarist autocracy and led to the creation of the Soviet Union. It marked a significant shift in global politics and inspired communist movements worldwide.
+    link: https://en.wikipedia.org/wiki/Russian_Revolution
+    index: 1917
+  - title: Great Depression
+    id: great-depression
+    description: A severe worldwide economic depression that started in the United States in 1929 and lasted until the late 1930s. It led to drastic declines in output, severe unemployment, and acute deflation in almost every country of the world.
+    link: https://en.wikipedia.org/wiki/Great_Depression
+    index: 1929
+  - title: Decolonization and Independence Movements
+    id: decolonization-and-independence-movements
+    description: A process where colonies became independent of their European colonizers, particularly after World War II. This led to the creation of numerous new nations in Africa, Asia, and the Caribbean, reshaping global politics.
+    link: https://en.wikipedia.org/wiki/Decolonization
+    index: 1945
+  - title: Cold War
+    id: cold-war
+    description: A period of geopolitical tension between the United States and the Soviet Union and their respective allies from the mid-1940s until the collapse of the Soviet Union in 1991. It was characterized by proxy wars, arms race, and ideological conflict.
+    link: https://en.wikipedia.org/wiki/Cold_War
+    index: 1947
+  - title: Space Race and Moon Landing
+    id: space-race-and-moon-landing
+    description: A 20th-century competition between the US and the Soviet Union for supremacy in spaceflight capability. It culminated with the Apollo 11 mission in 1969, when the United States became the first nation to land humans on the Moon.
+    link: https://en.wikipedia.org/wiki/Space_Race
+    index: 1957
+  - title: Civil Rights Movement
+    id: civil-rights-movement
+    description: A decades-long struggle for social justice that aimed to secure legal rights for African Americans and other marginalized groups in the United States. It led to landmark legislation such as the Civil Rights Act of 1964 and the Voting Rights Act of 1965.
+    link: https://en.wikipedia.org/wiki/Civil_rights_movement
+    index: 1954
+  - title: Fall of Berlin Wall and End of Soviet Union
+    id: fall-of-berlin-wall-and-end-of-soviet-union
+    description: The fall of the Berlin Wall in 1989 symbolized the end of the Cold War, followed by the dissolution of the Soviet Union in 1991. These events marked the end of the communist era in Eastern Europe and reshaped global politics.
+    link: https://en.wikipedia.org/wiki/Revolutions_of_1989
+    index: 1989
+  - title: Rise of Internet and Digital Age
+    id: rise-of-internet-and-digital-age
+    description: The development and widespread adoption of the Internet and digital technologies in the late 20th century, revolutionizing communication, commerce, and access to information. It laid the foundation for the modern information society.
+    link: https://en.wikipedia.org/wiki/Digital_Revolution
+    index: 1990
+  - title: Globalization
+    id: globalization
+    description: The process of interaction and integration among people, companies, and governments worldwide. Driven by international trade and investment and aided by information technology, it has had wide-ranging effects on culture, environment, politics, and economic development.
+    link: https://en.wikipedia.org/wiki/Globalization

@@ -1,0 +1,329 @@
+Timeline:
+  - from: -10000
+    to: -4001
+    events:
+      - title: "Invention of Agriculture"
+      - title: "Domestication of Animals"
+      - title: "Development of Pottery"
+      - title: "Invention of the Wheel"
+      - title: "Early Settlements and Villages Emerge"
+
+  - from: -4000
+    to: -3001
+    events:
+      - title: "Invention of Writing (Cuneiform)"
+      - title: "Bronze Age Begins"
+      - title: "Construction of Pyramids in Egypt"
+      - title: "Development of Sumerian Civilization"
+      - title: "Invention of the Plow"
+
+  - from: -3000
+    to: -2001
+    events:
+      - title: "Construction of Stonehenge"
+      - title: "Invention of the Sailboat"
+      - title: "Development of Chinese Writing"
+      - title: "Founding of Ancient Babylonian Empire"
+      - title: "Invention of Bronze Casting"
+
+  - from: -2000
+    to: -1201
+    events:
+      - title: "Code of Hammurabi Created"
+      - title: "Invention of Glass"
+      - title: "Development of Alphabet (Proto-Sinaitic script)"
+      - title: "Domestication of the Horse"
+      - title: "Rise of Mycenaean Civilization"
+
+  - from: -1200
+    to: -1101
+    events:
+      - title: "Trojan War (mythological/historical)"
+      - title: "Iron Age Begins"
+      - title: "Collapse of Bronze Age Civilizations"
+      - title: "Phoenician Alphabet Developed"
+      - title: "Olmec Civilization Emerges in Mesoamerica"
+
+  - from: -1100
+    to: -1001
+    events:
+      - title: "Greek Dark Ages Begin"
+      - title: "Kingdom of Israel United under Saul"
+      - title: "Zhou Dynasty Established in China"
+      - title: "Phoenicians Establish Trade Networks"
+      - title: "Development of Ironworking in Sub-Saharan Africa"
+
+  - from: -1000
+    to: -901
+    events:
+      - title: "Construction of Solomon's Temple"
+      - title: "Homer Composes Iliad and Odyssey (traditional date)"
+      - title: "Founding of Carthage"
+      - title: "Greek City-States Begin to Form"
+      - title: "Rise of Chavín Culture in Peru"
+
+  - from: -900
+    to: -801
+    events:
+      - title: "Assyrian Empire Expands"
+      - title: "First Olympic Games Held (traditional date)"
+      - title: "Founding of Rome (traditional date)"
+      - title: "Rise of Etruscans in Italy"
+      - title: "Development of Greek Alphabet"
+
+  - from: -800
+    to: -701
+    events:
+      - title: "Greek Colonization of Mediterranean Begins"
+      - title: "Rise of City-States in Maya Civilization"
+      - title: "Founding of Carthage"
+      - title: "Development of Sanskrit Grammar"
+      - title: "Zhou Dynasty Declines in China"
+
+  - from: -700
+    to: -601
+    events:
+      - title: "Rise of Sparta and Athens"
+      - title: "Assyrian Empire at its Peak"
+      - title: "Founding of Ancient Persia"
+      - title: "Greek Philosophy Begins with Thales"
+      - title: "Rise of Lydian Kingdom"
+
+  - from: -600
+    to: -501
+    events:
+      - title: "Babylonian Captivity of the Jews"
+      - title: "Rise of Persian Empire under Cyrus the Great"
+      - title: "Buddha Founds Buddhism"
+      - title: "Confucius Develops Philosophy in China"
+      - title: "Greek City-States Develop Democracy"
+
+  - from: -500
+    to: -401
+    events:
+      - title: "Persian Wars"
+      - title: "Golden Age of Athens"
+      - title: "Construction of Parthenon"
+      - title: "Roman Republic Established"
+      - title: "Warring States Period Begins in China"
+
+  - from: -400
+    to: -301
+    events:
+      - title: "Rise of Alexander the Great"
+      - title: "Founding of Alexandria"
+      - title: "Development of Hellenistic Culture"
+      - title: "Maurya Empire Founded in India"
+      - title: "Euclid Writes 'Elements'"
+
+  - from: -300
+    to: -201
+    events:
+      - title: "Construction of Great Wall of China Begins"
+      - title: "Punic Wars Between Rome and Carthage"
+      - title: "Archimedes' Scientific Discoveries"
+      - title: "Rise of Greco-Bactrian Kingdom"
+      - title: "Qin Dynasty Unifies China"
+
+  - from: -200
+    to: -101
+    events:
+      - title: "Han Dynasty Established in China"
+      - title: "Roman Expansion in Mediterranean"
+      - title: "Development of Paper in China"
+      - title: "Rise of Parthian Empire"
+      - title: "Establishment of Silk Road Trade"
+
+  - from: -100
+    to: -1
+    events:
+      - title: "Julius Caesar's Rise to Power"
+      - title: "Roman Civil Wars"
+      - title: "Cleopatra Rules Egypt"
+      - title: "Birth of Jesus Christ"
+      - title: "Roman Empire Established"
+
+  - from: 1
+    to: 100
+    events:
+      - title: "Crucifixion of Jesus Christ"
+      - title: "Destruction of Jerusalem and Second Temple"
+      - title: "Eruption of Vesuvius Destroys Pompeii"
+      - title: "Roman Empire Reaches Greatest Extent"
+      - title: "Development of Christianity"
+
+  - from: 101
+    to: 200
+    events:
+      - title: "Construction of Hadrian's Wall"
+      - title: "Paper Making Technology Spreads to Middle East"
+      - title: "Han Dynasty Declines in China"
+      - title: "Roman Empire Begins to Decline"
+      - title: "Development of Mahayana Buddhism"
+
+  - from: 201
+    to: 300
+    events:
+      - title: "Rise of Sassanid Empire in Persia"
+      - title: "Three Kingdoms Period in China"
+      - title: "Roman Empire Split into Western and Eastern Empires"
+      - title: "Diocletian Reforms Roman Empire"
+      - title: "Development of Neo-Platonism"
+
+  - from: 301
+    to: 400
+    events:
+      - title: "Constantine Converts to Christianity"
+      - title: "Council of Nicaea"
+      - title: "Hun Invasions of Europe Begin"
+      - title: "Roman Empire Adopts Christianity as Official Religion"
+      - title: "St. Jerome Translates Bible into Latin (Vulgate)"
+
+  - from: 401
+    to: 500
+    events:
+      - title: "Fall of Western Roman Empire"
+      - title: "Vandals Sack Rome"
+      - title: "Anglo-Saxon Invasion of Britain"
+      - title: "St. Patrick Converts Ireland to Christianity"
+      - title: "Gupta Empire Golden Age in India"
+
+  - from: 501
+    to: 600
+    events:
+      - title: "Justinian I Codifies Roman Law"
+      - title: "Rise of Mayan Civilization"
+      - title: "Buddhism Introduced to Japan"
+      - title: "Plague of Justinian"
+      - title: "Birth of Prophet Muhammad"
+
+  - from: 601
+    to: 700
+    events:
+      - title: "Rise of Islam"
+      - title: "Arab Conquest of Middle East and North Africa"
+      - title: "Tang Dynasty Established in China"
+      - title: "Synod of Whitby in England"
+      - title: "Mayan Classical Age"
+
+  - from: 701
+    to: 800
+    events:
+      - title: "Charlemagne Crowned Holy Roman Emperor"
+      - title: "Islamic Golden Age Begins"
+      - title: "Vikings Begin Raids in Europe"
+      - title: "An Lushan Rebellion in China"
+      - title: "Invention of Gunpowder in China"
+
+  - from: 801
+    to: 900
+    events:
+      - title: "Feudalism Develops in Europe"
+      - title: "Khmer Empire Founded in Southeast Asia"
+      - title: "Great Moravian Empire in Central Europe"
+      - title: "Decline of Abbasid Caliphate"
+      - title: "Rise of Toltec Civilization in Mesoamerica"
+
+  - from: 901
+    to: 1000
+    events:
+      - title: "Song Dynasty Begins in China"
+      - title: "Leif Erikson Reaches North America"
+      - title: "Holy Roman Empire Established"
+      - title: "Toltecs Dominate Central Mexico"
+      - title: "Rise of Ghaznavid Empire"
+
+  - from: 1001
+    to: 1100
+    events:
+      - title: "Norman Conquest of England"
+      - title: "First Crusade"
+      - title: "Seljuk Turks Defeat Byzantine Empire at Manzikert"
+      - title: "Domesday Book Compiled in England"
+      - title: "Song Dynasty Introduces Paper Money"
+
+  - from: 1101
+    to: 1200
+    events:
+      - title: "Crusader States Established in Holy Land"
+      - title: "Rise of Universities in Europe"
+      - title: "Angkor Wat Built in Cambodia"
+      - title: "Genghis Khan Unites Mongol Tribes"
+      - title: "Gothic Architecture Develops in Europe"
+
+  - from: 1201
+    to: 1300
+    events:
+      - title: "Magna Carta Signed"
+      - title: "Mongol Empire Reaches Greatest Extent"
+      - title: "Marco Polo Travels to China"
+      - title: "Rise of Ottoman Empire"
+      - title: "First Representative Parliament in England"
+
+  - from: 1301
+    to: 1400
+    events:
+      - title: "Black Death Pandemic"
+      - title: "Hundred Years' War Begins"
+      - title: "Renaissance Begins in Italy"
+      - title: "Ming Dynasty Established in China"
+      - title: "Timur (Tamerlane) Conquers Central Asia"
+
+  - from: 1401
+    to: 1500
+    events:
+      - title: "European Age of Exploration Begins"
+      - title: "Printing Press Invented by Gutenberg"
+      - title: "Fall of Constantinople to Ottoman Turks"
+      - title: "Christopher Columbus Reaches Americas"
+      - title: "Leonardo da Vinci's Scientific and Artistic Work"
+
+  - from: 1501
+    to: 1600
+    events:
+      - title: "Protestant Reformation Begins"
+      - title: "Copernican Revolution in Astronomy"
+      - title: "Spanish and Portuguese Empires Expand Globally"
+      - title: "Mughal Empire Established in India"
+      - title: "Shakespeare Writes Plays and Sonnets"
+
+  - from: 1601
+    to: 1700
+    events:
+      - title: "Scientific Revolution"
+      - title: "English Civil War"
+      - title: "Taj Mahal Built"
+      - title: "Rise of Absolute Monarchies in Europe"
+      - title: "Great Plague of London"
+
+  - from: 1701
+    to: 1800
+    events:
+      - title: "Industrial Revolution Begins"
+      - title: "American Revolution"
+      - title: "French Revolution"
+      - title: "Enlightenment Era"
+      - title: "Captain Cook Explores Pacific"
+
+  - from: 1801
+    to: 1900
+    events:
+      - title: "Napoleonic Wars"
+      - title: "Abolition of Slavery in Many Countries"
+      - title: "Darwin's Theory of Evolution"
+      - title: "Unification of Germany and Italy"
+      - title: "Second Industrial Revolution"
+
+  - from: 1901
+    to: 2000
+    events:
+      - title: "World War I and II"
+      - title: "Russian Revolution"
+      - title: "Great Depression"
+      - title: "Decolonization and Independence Movements"
+      - title: "Cold War"
+      - title: "Space Race and Moon Landing"
+      - title: "Civil Rights Movement"
+      - title: "Fall of Berlin Wall and End of Soviet Union"
+      - title: "Rise of Internet and Digital Age"
+      - title: "Globalization"

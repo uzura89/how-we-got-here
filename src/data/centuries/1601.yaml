@@ -1,0 +1,29 @@
+from: 1601
+to: 1700
+events:
+  - title: Scientific Revolution
+    id: scientific-revolution
+    description: A period of rapid scientific progress marked by significant advancements in mathematics, physics, astronomy, biology, and chemistry. It laid the foundations for modern science and challenged traditional beliefs.
+    link: https://en.wikipedia.org/wiki/Scientific_Revolution
+    index: 1650
+  - title: English Civil War
+    id: english-civil-war
+    description: A series of armed conflicts between Parliamentarians and Royalists in England, centered on political power and governance. It resulted in the execution of King Charles I and the establishment of the Commonwealth.
+    link: https://en.wikipedia.org/wiki/English_Civil_War
+    index: 1642
+  - title: Taj Mahal Built
+    id: taj-mahal-built
+    description: The construction of the iconic Taj Mahal in Agra, India, commissioned by Mughal Emperor Shah Jahan as a mausoleum for his beloved wife. It is now considered one of the New Seven Wonders of the World.
+    link: https://en.wikipedia.org/wiki/Taj_Mahal
+    index: 1632
+  - title: Rise of Absolute Monarchies in Europe
+    id: rise-of-absolute-monarchies-in-europe
+    description: A period when European monarchs consolidated power, centralizing government and reducing the influence of nobility. Notable examples include Louis XIV of France and Peter the Great of Russia.
+    link: https://en.wikipedia.org/wiki/Absolute_monarchy
+    index: 1660
+  - title: Great Plague of London
+    id: great-plague-of-london
+    description: A major outbreak of bubonic plague in London, England, which killed an estimated 100,000 people, about a quarter of the city's population. It was the last major epidemic of the bubonic plague in England.
+    link: https://en.wikipedia.org/wiki/Great_Plague_of_London
+    index: 1665
+lastUpdated: 2024-07-18

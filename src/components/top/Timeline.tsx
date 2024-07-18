@@ -1,23 +1,22 @@
-import { TimelineDataType } from "@/types/data";
+import { TimelineType } from "@/types/data";
 import Century from "./Century";
 
 interface TimelineProps {
-  timelineData: TimelineDataType;
+  timelineData: TimelineType;
 }
 
 export default function Timeline({ timelineData }: TimelineProps) {
   return (
     <div>
-      {Object.keys(timelineData)
-        .sort((a, b) => parseInt(b) - parseInt(a))
-        .map((century) => (
-          <Century
-            key={century}
-            century={century}
-            events={timelineData[century].events}
-            lastUpdated={timelineData[century].lastUpdated}
-          />
-        ))}
+      {timelineData.map((century) => (
+        <Century
+          key={century.from}
+          yearFrom={century.from}
+          yearTo={century.to}
+          events={century.events}
+          lastUpdated={century.lastUpdated}
+        />
+      ))}
     </div>
   );
 }

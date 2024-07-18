@@ -1,0 +1,29 @@
+from: -600
+to: -501
+events:
+  - title: Babylonian Captivity of the Jews
+    id: babylonian-captivity-of-the-jews
+    description: The Babylonian captivity or Babylonian exile was the period in Jewish history during which a large number of Judeans from the ancient Kingdom of Judah were captives in Babylon, the capital city of the Neo-Babylonian Empire.
+    link: https://en.wikipedia.org/wiki/Babylonian_captivity
+    index: -586
+  - title: Rise of Persian Empire under Cyrus the Great
+    id: rise-of-persian-empire-under-cyrus-the-great
+    description: Cyrus the Great founded the Achaemenid Empire, one of the largest empires in history. He conquered much of Southwest Asia and Central Asia, from Egypt and the Hellespont in the west to the Indus River in the east.
+    link: https://en.wikipedia.org/wiki/Cyrus_the_Great
+    index: -550
+  - title: Buddha Founds Buddhism
+    id: buddha-founds-buddhism
+    description: Siddhartha Gautama, known as the Buddha, was a spiritual teacher who founded Buddhism. He taught about suffering, its causes, and the path to enlightenment and liberation from the cycle of rebirth.
+    link: https://en.wikipedia.org/wiki/Gautama_Buddha
+    index: -563
+  - title: Confucius Develops Philosophy in China
+    id: confucius-develops-philosophy-in-china
+    description: Confucius was a Chinese philosopher and politician who developed a system of ethical and social philosophy that has deeply influenced Chinese, Korean, Japanese, and Vietnamese thought and life.
+    link: https://en.wikipedia.org/wiki/Confucius
+    index: -551
+  - title: Greek City-States Develop Democracy
+    id: greek-city-states-develop-democracy
+    description: Ancient Greek city-states, particularly Athens, developed and implemented democratic systems of government. This marked a significant shift from monarchies and oligarchies to a system where citizens had a voice in political decisions.
+    link: https://en.wikipedia.org/wiki/Athenian_democracy
+    index: -508
+lastUpdated: 2024-07-18

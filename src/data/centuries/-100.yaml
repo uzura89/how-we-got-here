@@ -1,0 +1,29 @@
+from: -100
+to: -1
+events:
+  - title: Julius Caesar's Rise to Power
+    id: julius-caesars-rise-to-power
+    description: Julius Caesar's ascent in Roman politics, culminating in his appointment as dictator for life. His military conquests and political reforms laid the groundwork for the Roman Empire.
+    link: https://en.wikipedia.org/wiki/Julius_Caesar
+    index: -60
+  - title: Roman Civil Wars
+    id: roman-civil-wars
+    description: A series of civil wars in the late Roman Republic, including conflicts between Caesar and Pompey, and later between Octavian and Mark Antony. These wars reshaped Roman politics and society.
+    link: https://en.wikipedia.org/wiki/Roman_civil_wars
+    index: -49
+  - title: Cleopatra Rules Egypt
+    id: cleopatra-rules-egypt
+    description: Cleopatra VII Philopator's reign as the last active ruler of the Ptolemaic Kingdom of Egypt. Her alliances with Julius Caesar and Mark Antony had significant impact on Roman politics.
+    link: https://en.wikipedia.org/wiki/Cleopatra
+    index: -51
+  - title: Birth of Jesus Christ
+    id: birth-of-jesus-christ
+    description: The birth of Jesus of Nazareth, the central figure of Christianity. While the exact year is debated, it is traditionally placed around 4-6 BC.
+    link: https://en.wikipedia.org/wiki/Jesus
+    index: -4
+  - title: Roman Empire Established
+    id: roman-empire-established
+    description: The transformation of the Roman Republic into the Roman Empire, with Octavian (Augustus) becoming the first Roman Emperor. This marked the beginning of the Pax Romana era.
+    link: https://en.wikipedia.org/wiki/Roman_Empire
+    index: -27
+lastUpdated: 2024-07-18

@@ -1,0 +1,29 @@
+from: -10000
+to: -4001
+events:
+  - title: Invention of Agriculture
+    id: invention-of-agriculture
+    description: The transition from hunting and gathering to cultivating crops marked a pivotal moment in human history. This innovation allowed for more stable food sources and led to the development of permanent settlements.
+    link: https://en.wikipedia.org/wiki/Neolithic_Revolution
+    index: -10000
+  - title: Domestication of Animals
+    id: domestication-of-animals
+    description: Humans began taming and breeding animals for food, labor, and companionship. This process started with dogs and gradually expanded to include livestock like sheep, goats, and cattle.
+    link: https://en.wikipedia.org/wiki/Domestication
+    index: -9000
+  - title: Development of Pottery
+    id: development-of-pottery
+    description: The creation of clay vessels for storage and cooking revolutionized daily life. Pottery allowed for better food preservation and cooking techniques, as well as artistic expression.
+    link: https://en.wikipedia.org/wiki/Pottery
+    index: -7000
+  - title: Invention of the Wheel
+    id: invention-of-the-wheel
+    description: The wheel, one of humanity's most important inventions, facilitated transportation and machinery. It was initially used for pottery making before being adapted for vehicles and other applications.
+    link: https://en.wikipedia.org/wiki/Wheel
+    index: -5500
+  - title: Early Settlements and Villages Emerge
+    id: early-settlements-and-villages-emerge
+    description: As agriculture and animal husbandry became established, humans began to form permanent settlements. These early villages laid the foundation for future towns and cities.
+    link: https://en.wikipedia.org/wiki/Neolithic
+    index: -6000
+lastUpdated: 2024-07-18

@@ -1,0 +1,29 @@
+from: 1101
+to: 1200
+events:
+  - title: Crusader States Established in Holy Land
+    id: crusader-states-established-in-holy-land
+    description: Following the First Crusade, European Christians established several feudal states in the Levant, including the Kingdom of Jerusalem, the Principality of Antioch, and the Counties of Edessa and Tripoli.
+    link: https://en.wikipedia.org/wiki/Crusader_states
+    index: 1099
+  - title: Rise of Universities in Europe
+    id: rise-of-universities-in-europe
+    description: The 12th century saw the establishment of many of Europe's oldest universities, including the University of Bologna, University of Paris, and University of Oxford, marking a significant development in education and scholarship.
+    link: https://en.wikipedia.org/wiki/Medieval_university
+    index: 1150
+  - title: Angkor Wat Built in Cambodia
+    id: angkor-wat-built-in-cambodia
+    description: Angkor Wat, the largest religious monument in the world, was constructed in Cambodia by King Suryavarman II as a Hindu temple dedicated to Vishnu. It later became a Buddhist temple and a symbol of Cambodia.
+    link: https://en.wikipedia.org/wiki/Angkor_Wat
+    index: 1113
+  - title: Genghis Khan Unites Mongol Tribes
+    id: genghis-khan-unites-mongol-tribes
+    description: Genghis Khan, born Temujin, united the disparate Mongol tribes under his leadership, laying the foundation for the vast Mongol Empire that would become the largest contiguous land empire in history.
+    link: https://en.wikipedia.org/wiki/Genghis_Khan
+    index: 1206
+  - title: Gothic Architecture Develops in Europe
+    id: gothic-architecture-develops-in-europe
+    description: Gothic architecture emerged in 12th-century France, characterized by pointed arches, ribbed vaults, and large windows. It spread across Europe, influencing the design of many cathedrals and civic buildings.
+    link: https://en.wikipedia.org/wiki/Gothic_architecture
+    index: 1140
+lastUpdated: 2024-07-18

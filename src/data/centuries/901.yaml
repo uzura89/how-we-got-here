@@ -1,0 +1,29 @@
+from: 901
+to: 1000
+events:
+  - title: Song Dynasty Begins in China
+    id: song-dynasty-begins-in-china
+    description: The Song Dynasty, founded by Emperor Taizu, marks a period of economic prosperity, technological innovation, and cultural achievements in Chinese history. It reunified most of China proper.
+    link: https://en.wikipedia.org/wiki/Song_dynasty
+    index: 960
+  - title: Leif Erikson Reaches North America
+    id: leif-erikson-reaches-north-america
+    description: Norse explorer Leif Erikson becomes the first known European to set foot on North American soil, establishing a settlement in present-day Newfoundland, Canada, nearly 500 years before Columbus.
+    link: https://en.wikipedia.org/wiki/Leif_Erikson
+    index: 1000
+  - title: Holy Roman Empire Established
+    id: holy-roman-empire-established
+    description: Otto I is crowned Emperor by Pope John XII, marking the establishment of the Holy Roman Empire, a complex of territories in Central Europe that lasted until 1806.
+    link: https://en.wikipedia.org/wiki/Holy_Roman_Empire
+    index: 962
+  - title: Toltecs Dominate Central Mexico
+    id: toltecs-dominate-central-mexico
+    description: The Toltec civilization rises to prominence in central Mexico, known for their advanced architecture, including the famous site of Tula, and their influence on later Mesoamerican cultures.
+    link: https://en.wikipedia.org/wiki/Toltec
+    index: 950
+  - title: Rise of Ghaznavid Empire
+    id: rise-of-ghaznavid-empire
+    description: The Ghaznavid Empire, founded by Sebük Tigin, emerges as a powerful Turkic-Persian Muslim dynasty, expanding its rule across parts of modern-day Iran, Afghanistan, Pakistan, and northern India.
+    link: https://en.wikipedia.org/wiki/Ghaznavid_Empire
+    index: 977
+lastUpdated: 2024-07-18

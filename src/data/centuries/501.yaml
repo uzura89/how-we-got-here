@@ -1,0 +1,29 @@
+from: 501
+to: 600
+events:
+  - title: Justinian I Codifies Roman Law
+    id: justinian-i-codifies-roman-law
+    description: Emperor Justinian I of the Byzantine Empire orders the codification of Roman law, resulting in the Corpus Juris Civilis. This comprehensive legal code becomes the basis for many modern legal systems and greatly influences Western jurisprudence.
+    link: https://en.wikipedia.org/wiki/Corpus_Juris_Civilis
+    index: 529
+  - title: Rise of Mayan Civilization
+    id: rise-of-mayan-civilization
+    description: The Mayan civilization reaches its peak during the Classic Period, with significant advancements in architecture, mathematics, astronomy, and writing. Cities like Tikal and Palenque flourish, showcasing the Mayans' cultural and scientific achievements.
+    link: https://en.wikipedia.org/wiki/Maya_civilization
+    index: 550
+  - title: Buddhism Introduced to Japan
+    id: buddhism-introduced-to-japan
+    description: Buddhism is officially introduced to Japan from Korea, leading to a profound cultural and religious transformation. The religion gradually gains popularity among the Japanese elite and later spreads to the general population.
+    link: https://en.wikipedia.org/wiki/Buddhism_in_Japan
+    index: 552
+  - title: Plague of Justinian
+    id: plague-of-justinian
+    description: A devastating pandemic, likely bubonic plague, sweeps through the Byzantine Empire and surrounding regions. It causes widespread death and social upheaval, significantly impacting the empire's military and economic power.
+    link: https://en.wikipedia.org/wiki/Plague_of_Justinian
+    index: 541
+  - title: Birth of Prophet Muhammad
+    id: birth-of-prophet-muhammad
+    description: Muhammad, the founder of Islam, is born in Mecca. His life and teachings will profoundly shape the religious and political landscape of the Middle East and beyond, leading to the rapid spread of Islam in the following centuries.
+    link: https://en.wikipedia.org/wiki/Muhammad
+    index: 570
+lastUpdated: 2024-07-18

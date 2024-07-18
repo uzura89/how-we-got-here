@@ -1,0 +1,29 @@
+from: -700
+to: -601
+events:
+  - title: Rise of Sparta and Athens
+    id: rise-of-sparta-and-athens
+    description: The city-states of Sparta and Athens emerge as powerful forces in ancient Greece, establishing their unique political and social systems that would shape Greek history for centuries to come.
+    link: https://en.wikipedia.org/wiki/Classical_Greece
+    index: -650
+  - title: Assyrian Empire at its Peak
+    id: assyrian-empire-at-its-peak
+    description: The Assyrian Empire reaches its zenith under kings like Sennacherib and Ashurbanipal, dominating much of the ancient Near East through military conquest and cultural influence.
+    link: https://en.wikipedia.org/wiki/Neo-Assyrian_Empire
+    index: -670
+  - title: Founding of Ancient Persia
+    id: founding-of-ancient-persia
+    description: The Persian Empire is established by Cyrus the Great, laying the foundation for one of the largest and most influential empires in ancient history, spanning from Europe to India.
+    link: https://en.wikipedia.org/wiki/Achaemenid_Empire
+    index: -650
+  - title: Greek Philosophy Begins with Thales
+    id: greek-philosophy-begins-with-thales
+    description: Thales of Miletus, considered the first Western philosopher, introduces rational and scientific thought, marking the beginning of Greek philosophy and influencing Western intellectual tradition.
+    link: https://en.wikipedia.org/wiki/Thales_of_Miletus
+    index: -624
+  - title: Rise of Lydian Kingdom
+    id: rise-of-lydian-kingdom
+    description: The Kingdom of Lydia in Anatolia grows in power and wealth, becoming known for its gold resources and as the first civilization to mint coins, influencing trade and economy in the ancient world.
+    link: https://en.wikipedia.org/wiki/Lydia
+    index: -685
+lastUpdated: 2024-07-18

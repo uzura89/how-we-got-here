@@ -1,0 +1,29 @@
+from: -3000
+to: -2001
+events:
+  - title: Construction of Stonehenge
+    id: construction-of-stonehenge
+    description: Stonehenge, a prehistoric monument in Wiltshire, England, was built in several stages. The iconic stone circle was erected in the late Neolithic period, around 2500 BC. Its purpose remains a mystery, with theories ranging from a burial ground to an astronomical calendar.
+    link: https://en.wikipedia.org/wiki/Stonehenge
+    index: -2500
+  - title: Invention of the Sailboat
+    id: invention-of-the-sailboat
+    description: The invention of the sailboat revolutionized maritime travel and trade. Early sailboats were developed in ancient Egypt and Mesopotamia, using simple square sails to harness wind power for propulsion on rivers and coastal waters.
+    link: https://en.wikipedia.org/wiki/Sailboat
+    index: -3000
+  - title: Development of Chinese Writing
+    id: development-of-chinese-writing
+    description: Chinese writing, one of the world's oldest writing systems, emerged during the Shang Dynasty. The earliest known Chinese characters were oracle bone inscriptions used for divination. This writing system laid the foundation for the development of Chinese literature and culture.
+    link: https://en.wikipedia.org/wiki/Oracle_bone_script
+    index: -2200
+  - title: Founding of Ancient Babylonian Empire
+    id: founding-of-ancient-babylonian-empire
+    description: The Babylonian Empire, centered in Mesopotamia, was founded around 1894 BC. It became a major power in the ancient world under the rule of Hammurabi, known for his famous legal code. The empire greatly influenced art, architecture, and science in the region.
+    link: https://en.wikipedia.org/wiki/Babylonia
+    index: -1894
+  - title: Invention of Bronze Casting
+    id: invention-of-bronze-casting
+    description: Bronze casting, developed in ancient Mesopotamia and China, marked a significant technological advancement. This technique allowed for the creation of stronger tools, weapons, and decorative objects. The Bronze Age saw widespread use of this metal alloy across various civilizations.
+    link: https://en.wikipedia.org/wiki/Bronze_Age
+    index: -3000
+lastUpdated: 2024-07-18

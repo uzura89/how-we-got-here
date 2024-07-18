@@ -1,0 +1,29 @@
+from: 301
+to: 400
+events:
+  - title: Constantine Converts to Christianity
+    id: constantine-converts-to-christianity
+    description: Roman Emperor Constantine I converts to Christianity, marking a turning point in the history of the religion and the Roman Empire. This conversion led to the end of Christian persecution and the eventual rise of Christianity as the dominant religion in Europe.
+    link: https://en.wikipedia.org/wiki/Constantine_the_Great_and_Christianity
+    index: 312
+  - title: Council of Nicaea
+    id: council-of-nicaea
+    description: The first ecumenical council of the Christian church, convened by Emperor Constantine I. It addressed the Arian controversy and established the Nicene Creed, a statement of Christian belief still used by many Christian denominations today.
+    link: https://en.wikipedia.org/wiki/First_Council_of_Nicaea
+    index: 325
+  - title: Hun Invasions of Europe Begin
+    id: hun-invasions-of-europe-begin
+    description: The Huns, a nomadic people from Central Asia, begin their invasions of Europe, causing widespread disruption and contributing to the migration of Germanic tribes. This marked the beginning of the Migration Period in European history.
+    link: https://en.wikipedia.org/wiki/Huns
+    index: 370
+  - title: Roman Empire Adopts Christianity as Official Religion
+    id: roman-empire-adopts-christianity
+    description: Emperor Theodosius I issues the Edict of Thessalonica, making Nicene Christianity the official state religion of the Roman Empire. This decision had far-reaching consequences for the development of Western civilization.
+    link: https://en.wikipedia.org/wiki/State_church_of_the_Roman_Empire
+    index: 380
+  - title: St. Jerome Translates Bible into Latin (Vulgate)
+    id: st-jerome-translates-bible
+    description: St. Jerome completes his Latin translation of the Bible, known as the Vulgate. This translation became the standard Bible text for the Western Christian world for over a thousand years and greatly influenced the development of Latin Christianity.
+    link: https://en.wikipedia.org/wiki/Vulgate
+    index: 382
+lastUpdated: 2024-07-18

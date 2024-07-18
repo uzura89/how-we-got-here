@@ -1,0 +1,29 @@
+from: 1001
+to: 1100
+events:
+  - title: Norman Conquest of England
+    id: norman-conquest-of-england
+    description: The Norman invasion and conquest of England led by William the Conqueror, culminating in the Battle of Hastings in 1066. This event marked the end of Anglo-Saxon rule and the beginning of Norman dominance in England.
+    link: https://en.wikipedia.org/wiki/Norman_conquest_of_England
+    index: 1066
+  - title: First Crusade
+    id: first-crusade
+    description: A military expedition called by Pope Urban II to reclaim Jerusalem and the Holy Land from Muslim control. It resulted in the establishment of the Crusader states in the Levant and had long-lasting impacts on East-West relations.
+    link: https://en.wikipedia.org/wiki/First_Crusade
+    index: 1095
+  - title: Seljuk Turks Defeat Byzantine Empire at Manzikert
+    id: battle-of-manzikert
+    description: A decisive battle where Seljuk Turks led by Alp Arslan defeated the Byzantine army under Emperor Romanos IV Diogenes. This battle marked the decline of Byzantine power and the rise of Turkish influence in Anatolia.
+    link: https://en.wikipedia.org/wiki/Battle_of_Manzikert
+    index: 1071
+  - title: Domesday Book Compiled in England
+    id: domesday-book
+    description: A comprehensive survey of England and parts of Wales ordered by William the Conqueror. It provided detailed records of land ownership, resources, and population, serving as a crucial historical document of medieval England.
+    link: https://en.wikipedia.org/wiki/Domesday_Book
+    index: 1086
+  - title: Song Dynasty Introduces Paper Money
+    id: song-dynasty-paper-money
+    description: The Song Dynasty in China introduced the world's first government-issued paper money, called "jiaozi". This innovation revolutionized commerce and financial systems, influencing economic practices worldwide.
+    link: https://en.wikipedia.org/wiki/Jiaozi_(currency)
+    index: 1023
+lastUpdated: 2024-07-18

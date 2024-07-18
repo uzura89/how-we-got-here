@@ -1,0 +1,29 @@
+from: -300
+to: -201
+events:
+  - title: Construction of Great Wall of China Begins
+    id: construction-of-great-wall-of-china-begins
+    description: The initial construction of the Great Wall of China began under the Qin Dynasty to protect against nomadic invasions. This massive fortification project would continue and expand over subsequent centuries, becoming one of the most iconic structures in world history.
+    link: https://en.wikipedia.org/wiki/Great_Wall_of_China
+    index: -220
+  - title: Punic Wars Between Rome and Carthage
+    id: punic-wars-between-rome-and-carthage
+    description: A series of three wars fought between Rome and Carthage over control of the western Mediterranean. These conflicts marked a turning point in Roman history, leading to the destruction of Carthage and Rome's emergence as the dominant power in the region.
+    link: https://en.wikipedia.org/wiki/Punic_Wars
+    index: -264
+  - title: Archimedes' Scientific Discoveries
+    id: archimedes-scientific-discoveries
+    description: Archimedes, the renowned Greek mathematician and inventor, made numerous groundbreaking discoveries in mathematics, physics, and engineering during this period. His work laid the foundation for many scientific principles still in use today.
+    link: https://en.wikipedia.org/wiki/Archimedes
+    index: -250
+  - title: Rise of Greco-Bactrian Kingdom
+    id: rise-of-greco-bactrian-kingdom
+    description: The Greco-Bactrian Kingdom emerged in Central Asia, blending Greek and Eastern cultures. This Hellenistic state played a significant role in the spread of Greek culture and Buddhism in the region, leaving a lasting impact on art and religion.
+    link: https://en.wikipedia.org/wiki/Greco-Bactrian_Kingdom
+    index: -256
+  - title: Qin Dynasty Unifies China
+    id: qin-dynasty-unifies-china
+    description: The Qin Dynasty, led by Qin Shi Huang, conquered and unified the warring states of China, establishing the first imperial dynasty. This unification led to standardization of writing, currency, and measurements across China, shaping its future development.
+    link: https://en.wikipedia.org/wiki/Qin_dynasty
+    index: -221
+lastUpdated: 2024-07-18
