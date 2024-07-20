@@ -1,0 +1,4 @@
+Development of the Julian Calendar: 1 AD ~ 100 AD
+
+Claude: The information provided is mostly correct, but the timeframe given (1 AD ~ 100 AD) is incorrect. The Julian calendar was introduced and implemented before the start of the Common Era (AD). The correct timeframe for this event would be 50 BC ~ 40 BC.
+Gemini: Pass

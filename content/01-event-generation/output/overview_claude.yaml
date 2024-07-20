@@ -1,0 +1,329 @@
+Timeline:
+  - from: -10000
+    to: -4001
+    events:
+      - title: "Invention of Agriculture"
+      - title: "Domestication of Animals"
+      - title: "Development of Pottery"
+      - title: "First Permanent Settlements"
+      - title: "Invention of the Wheel"
+
+  - from: -4000
+    to: -3001
+    events:
+      - title: "Invention of Writing (Cuneiform)"
+      - title: "Bronze Age Begins"
+      - title: "Construction of Stonehenge Begins"
+      - title: "First Known Use of Papyrus in Egypt"
+      - title: "Development of the Sailboat"
+
+  - from: -3000
+    to: -2001
+    events:
+      - title: "Building of the Great Pyramid of Giza"
+      - title: "Invention of the Plow"
+      - title: "Development of Mathematics in Mesopotamia"
+      - title: "First Known Legal Code (Code of Ur-Nammu)"
+      - title: "Invention of the Potter's Wheel"
+
+  - from: -2000
+    to: -1201
+    events:
+      - title: "Development of Iron Smelting"
+      - title: "Invention of Glass"
+      - title: "Domestication of the Horse"
+      - title: "Development of the Alphabet"
+      - title: "Construction of Knossos Palace in Crete"
+
+  - from: -1200
+    to: -1101
+    events:
+      - title: "Trojan War (Legendary)"
+      - title: "Collapse of Bronze Age Civilizations"
+      - title: "Rise of Olmec Civilization in Mesoamerica"
+      - title: "Development of Phoenician Alphabet"
+      - title: "Iron Age Begins in the Near East"
+
+  - from: -1100
+    to: -1001
+    events:
+      - title: "Founding of Carthage"
+      - title: "Greek Dark Ages"
+      - title: "Development of Ironworking in Sub-Saharan Africa"
+      - title: "Emergence of Zhou Dynasty in China"
+      - title: "Composition of the Rigveda in India"
+
+  - from: -1000
+    to: -901
+    events:
+      - title: "Construction of King Solomon's Temple"
+      - title: "Rise of Chavín Culture in Peru"
+      - title: "Greek Colonization of Mediterranean Begins"
+      - title: "Development of Olmec Writing System"
+      - title: "Founding of Sparta"
+
+  - from: -900
+    to: -801
+    events:
+      - title: "Homer Composes the Iliad and Odyssey"
+      - title: "Rise of Assyrian Empire"
+      - title: "Founding of Carthage"
+      - title: "Development of Greek Alphabet"
+      - title: "Rise of Etruscans in Italy"
+
+  - from: -800
+    to: -701
+    events:
+      - title: "First Olympic Games"
+      - title: "Founding of Rome"
+      - title: "Rise of Greek City-States"
+      - title: "Development of Iron Age in Europe"
+      - title: "Emergence of Upanishads in India"
+
+  - from: -700
+    to: -601
+    events:
+      - title: "Rise of Mayan Civilization"
+      - title: "Invention of Coinage in Lydia"
+      - title: "Construction of Hanging Gardens of Babylon"
+      - title: "Greek Colonization of Black Sea"
+      - title: "Rise of Zoroastrianism in Persia"
+
+  - from: -600
+    to: -501
+    events:
+      - title: "Birth of Buddha"
+      - title: "Rise of Confucianism in China"
+      - title: "Athenian Democracy Established"
+      - title: "Construction of Persepolis Begins"
+      - title: "Rise of Carthaginian Empire"
+
+  - from: -500
+    to: -401
+    events:
+      - title: "Persian Wars"
+      - title: "Golden Age of Athens"
+      - title: "Construction of Parthenon"
+      - title: "Rise of Roman Republic"
+      - title: "Peloponnesian War"
+
+  - from: -400
+    to: -301
+    events:
+      - title: "Alexander the Great's Conquests"
+      - title: "Rise of Mauryan Empire in India"
+      - title: "Building of the Great Wall of China Begins"
+      - title: "Development of Euclidean Geometry"
+      - title: "Founding of Alexandria"
+
+  - from: -300
+    to: -201
+    events:
+      - title: "Punic Wars Begin"
+      - title: "Construction of Lighthouse of Alexandria"
+      - title: "Rise of Hellenistic Culture"
+      - title: "Qin Dynasty Unifies China"
+      - title: "Development of Archimedes' Principle"
+
+  - from: -200
+    to: -101
+    events:
+      - title: "Han Dynasty Established in China"
+      - title: "Roman Conquest of Greece"
+      - title: "Construction of Terracotta Army"
+      - title: "Development of Paper in China"
+      - title: "Rise of Silk Road Trade"
+
+  - from: -100
+    to: -1
+    events:
+      - title: "Julius Caesar Becomes Dictator of Rome"
+      - title: "Roman Civil Wars"
+      - title: "Cleopatra's Reign in Egypt"
+      - title: "Birth of Jesus Christ"
+      - title: "Roman Empire Established"
+
+  - from: 1
+    to: 100
+    events:
+      - title: "Crucifixion of Jesus Christ"
+      - title: "Destruction of Pompeii by Vesuvius"
+      - title: "Roman Conquest of Britain"
+      - title: "Construction of Colosseum"
+      - title: "Invention of Paper in China"
+
+  - from: 101
+    to: 200
+    events:
+      - title: "Construction of Hadrian's Wall"
+      - title: "Peak of Roman Empire"
+      - title: "Development of Mahayana Buddhism"
+      - title: "Rise of Gnosticism"
+      - title: "Composition of Mishnah"
+
+  - from: 201
+    to: 300
+    events:
+      - title: "Rise of Sassanid Empire"
+      - title: "Crisis of the Third Century in Roman Empire"
+      - title: "Rise of Neo-Platonism"
+      - title: "Diocletian Reforms Roman Empire"
+      - title: "Development of Coptic Script"
+
+  - from: 301
+    to: 400
+    events:
+      - title: "Constantine Converts to Christianity"
+      - title: "Council of Nicaea"
+      - title: "Founding of Constantinople"
+      - title: "Christianity Becomes Official Religion of Roman Empire"
+      - title: "Division of Roman Empire"
+
+  - from: 401
+    to: 500
+    events:
+      - title: "Fall of Western Roman Empire"
+      - title: "Huns Invade Europe"
+      - title: "St. Patrick Converts Ireland to Christianity"
+      - title: "Development of Mayan Long Count Calendar"
+      - title: "Gupta Golden Age in India"
+
+  - from: 501
+    to: 600
+    events:
+      - title: "Justinian's Rule and Code of Law"
+      - title: "Birth of Muhammad"
+      - title: "Plague of Justinian"
+      - title: "Rise of Sui Dynasty in China"
+      - title: "Construction of Hagia Sophia"
+
+  - from: 601
+    to: 700
+    events:
+      - title: "Rise of Islam"
+      - title: "Tang Dynasty Established in China"
+      - title: "Muslim Conquest of Persia"
+      - title: "Battle of Badr"
+      - title: "First Fitna (Islamic Civil War)"
+
+  - from: 701
+    to: 800
+    events:
+      - title: "Charlemagne Crowned Emperor of the Romans"
+      - title: "Islamic Golden Age Begins"
+      - title: "An Lushan Rebellion in China"
+      - title: "Vikings Begin Raids in Europe"
+      - title: "Invention of Gunpowder in China"
+
+  - from: 801
+    to: 900
+    events:
+      - title: "Abbasid Caliphate at its Peak"
+      - title: "Norse Settlement of Iceland"
+      - title: "Rise of Khmer Empire"
+      - title: "Decline of Maya Civilization"
+      - title: "Great Moravian Empire at its Peak"
+
+  - from: 901
+    to: 1000
+    events:
+      - title: "Song Dynasty Begins in China"
+      - title: "Leif Erikson Reaches North America"
+      - title: "Foundation of Al-Azhar University"
+      - title: "Battle of Maldon"
+      - title: "Emergence of Feudalism in Europe"
+
+  - from: 1001
+    to: 1100
+    events:
+      - title: "Norman Conquest of England"
+      - title: "First Crusade"
+      - title: "Seljuk Turks Defeat Byzantine Empire at Manzikert"
+      - title: "Construction of Angkor Wat Begins"
+      - title: "Domesday Book Compiled in England"
+
+  - from: 1101
+    to: 1200
+    events:
+      - title: "Founding of University of Paris"
+      - title: "Khmer Empire at its Peak"
+      - title: "Second Crusade"
+      - title: "Rise of Genghis Khan"
+      - title: "Construction of Notre Dame Cathedral Begins"
+
+  - from: 1201
+    to: 1300
+    events:
+      - title: "Magna Carta Signed"
+      - title: "Mongol Empire at its Peak"
+      - title: "Marco Polo's Travels"
+      - title: "Fall of Baghdad to Mongols"
+      - title: "First Representative Parliament in England"
+
+  - from: 1301
+    to: 1400
+    events:
+      - title: "Black Death Pandemic"
+      - title: "Hundred Years' War Begins"
+      - title: "Ottoman Empire Founded"
+      - title: "Ming Dynasty Established in China"
+      - title: "Renaissance Begins in Italy"
+
+  - from: 1401
+    to: 1500
+    events:
+      - title: "Joan of Arc Leads French Army"
+      - title: "Fall of Constantinople"
+      - title: "Gutenberg Invents Printing Press"
+      - title: "Columbus Reaches Americas"
+      - title: "Leonardo da Vinci Paints The Last Supper"
+
+  - from: 1501
+    to: 1600
+    events:
+      - title: "Protestant Reformation Begins"
+      - title: "Copernicus Proposes Heliocentric Model"
+      - title: "Spanish Conquest of Aztec Empire"
+      - title: "Elizabeth I Becomes Queen of England"
+      - title: "Shakespeare Writes Major Plays"
+
+  - from: 1601
+    to: 1700
+    events:
+      - title: "Scientific Revolution"
+      - title: "English Civil War"
+      - title: "Great Plague of London"
+      - title: "Newton Develops Laws of Motion"
+      - title: "Taj Mahal Completed"
+
+  - from: 1701
+    to: 1800
+    events:
+      - title: "Industrial Revolution Begins"
+      - title: "American Revolution"
+      - title: "French Revolution"
+      - title: "James Cook Explores Pacific"
+      - title: "Invention of Steam Engine"
+
+  - from: 1801
+    to: 1900
+    events:
+      - title: "Napoleonic Wars"
+      - title: "Abolition of Slavery in British Empire"
+      - title: "Darwin Publishes 'On the Origin of Species'"
+      - title: "American Civil War"
+      - title: "First Telephone Call"
+
+  - from: 1901
+    to: 2000
+    events:
+      - title: "Wright Brothers' First Flight"
+      - title: "World War I"
+      - title: "Russian Revolution"
+      - title: "Great Depression"
+      - title: "World War II"
+      - title: "Atomic Bombs Dropped on Hiroshima and Nagasaki"
+      - title: "United Nations Founded"
+      - title: "Discovery of DNA Structure"
+      - title: "First Human on the Moon"
+      - title: "Fall of Berlin Wall"

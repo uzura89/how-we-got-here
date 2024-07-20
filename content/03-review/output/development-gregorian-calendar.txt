@@ -1,0 +1,4 @@
+Development of the Gregorian Calendar: 100 BC ~ 1 BC
+
+Claude: The event description is accurate, but it cannot be included in the timeframe of 100 BC ~ 1 BC. The Gregorian calendar was developed and adopted in 1582 AD, which is over 1,500 years after the given timeframe.
+Gemini: False. The Gregorian calendar was adopted in 1582 AD, not in the timeframe of 100 BC ~ 1 BC.

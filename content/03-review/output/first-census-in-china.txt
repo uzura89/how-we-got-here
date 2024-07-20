@@ -1,0 +1,4 @@
+First Census in China: 200 BC ~ 101 BC
+
+Claude: The information provided is mostly correct, but there is an error in the timeframe. The first census in China during the Han Dynasty was indeed conducted in 2 AD, which falls outside the given timeframe of 200 BC ~ 101 BC. The correct timeframe for this event would be 1 AD ~ 100 AD.
+Gemini: Pass

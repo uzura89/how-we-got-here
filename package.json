@@ -8,11 +8,14 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "gen:events": "tsx scripts/generateEvents/main.ts",
-    "gen:images": "tsx scripts/generateImages/main.ts"
+    "gen:overview": "tsx content/01-event-generation/scripts/main.ts",
+    "gen:details": "tsx content/02-detail-addition/scripts/main.ts",
+    "gen:review": "tsx content/03-review/scripts/main.ts",
+    "gen:images": "tsx content/04-image-generation/scripts/main.ts"
   },
   "dependencies": {
     "@fontsource/inter": "^5.0.19",
+    "@google/generative-ai": "^0.15.0",
     "axios": "^1.7.2",
     "dotenv": "^16.4.5",
     "next": "14.2.5",

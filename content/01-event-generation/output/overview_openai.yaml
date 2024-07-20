@@ -1,0 +1,329 @@
+Timeline:
+  - from: -10000
+    to: -4001
+    events:
+      - title: "Invention of Agriculture"
+      - title: "Domestication of Animals"
+      - title: "Development of Pottery"
+      - title: "Construction of Göbekli Tepe"
+      - title: "Emergence of Early Settlements"
+
+  - from: -4000
+    to: -3001
+    events:
+      - title: "Rise of Sumerian Civilization"
+      - title: "Invention of the Wheel"
+      - title: "Development of Writing in Mesopotamia"
+      - title: "Construction of the First Cities"
+      - title: "Bronze Age Begins"
+
+  - from: -3000
+    to: -2001
+    events:
+      - title: "Construction of the Egyptian Pyramids"
+      - title: "Development of the Indus Valley Civilization"
+      - title: "Creation of the Code of Ur-Nammu"
+      - title: "Emergence of Minoan Civilization"
+      - title: "Rise of Akkadian Empire"
+
+  - from: -2000
+    to: -1201
+    events:
+      - title: "Hammurabi's Code of Laws"
+      - title: "Emergence of the Hittite Empire"
+      - title: "Development of the Shang Dynasty in China"
+      - title: "Foundation of the City of Babylon"
+      - title: "Beginning of the Iron Age"
+
+  - from: -1200
+    to: -1101
+    events:
+      - title: "Trojan War"
+      - title: "Collapse of Bronze Age Civilizations"
+      - title: "Settlement of the Sea Peoples"
+      - title: "Rise of the Neo-Assyrian Empire"
+      - title: "First Use of Alphabetic Writing"
+
+  - from: -1100
+    to: -1001
+    events:
+      - title: "Foundation of Carthage"
+      - title: "Development of the Olmec Civilization"
+      - title: "First Olympic Games"
+      - title: "Rise of the Kingdom of Israel"
+      - title: "Development of Iron Smelting"
+
+  - from: -1000
+    to: -901
+    events:
+      - title: "Establishment of the Zhou Dynasty"
+      - title: "Construction of Solomon's Temple"
+      - title: "Founding of Rome (Traditional Date)"
+      - title: "Spread of the Phoenician Alphabet"
+      - title: "Emergence of Greek City-States"
+
+  - from: -900
+    to: -801
+    events:
+      - title: "Rise of the Etruscan Civilization"
+      - title: "Development of the Mesoamerican Ballgame"
+      - title: "Expansion of the Neo-Assyrian Empire"
+      - title: "Founding of Sparta"
+      - title: "Composition of the Iliad and the Odyssey"
+
+  - from: -800
+    to: -701
+    events:
+      - title: "Establishment of the Roman Republic"
+      - title: "Construction of the Acropolis in Athens"
+      - title: "First Recorded Solar Eclipse"
+      - title: "Emergence of the Achaemenid Empire"
+      - title: "Introduction of Coinage"
+
+  - from: -700
+    to: -601
+    events:
+      - title: "Rise of the Medes"
+      - title: "Foundation of the Kingdom of Lydia"
+      - title: "Construction of the Ishtar Gate"
+      - title: "Development of Zoroastrianism"
+      - title: "First Use of Iron Weapons"
+
+  - from: -600
+    to: -501
+    events:
+      - title: "Construction of the Hanging Gardens of Babylon"
+      - title: "Rise of the Achaemenid Persian Empire"
+      - title: "Founding of the School of Confucianism"
+      - title: "First Buddhist Teachings"
+      - title: "Reforms of Cleisthenes in Athens"
+
+  - from: -500
+    to: -401
+    events:
+      - title: "Battle of Marathon"
+      - title: "Construction of the Parthenon"
+      - title: "Foundation of the Roman Senate"
+      - title: "Rise of the Maurya Empire"
+      - title: "Philosophical Teachings of Socrates"
+
+  - from: -400
+    to: -301
+    events:
+      - title: "Conquests of Alexander the Great"
+      - title: "Development of Hellenistic Culture"
+      - title: "Foundation of the Library of Alexandria"
+      - title: "Construction of the Great Wall of China"
+      - title: "Philosophical Teachings of Aristotle"
+
+  - from: -300
+    to: -201
+    events:
+      - title: "Rise of the Roman Empire"
+      - title: "Construction of the Colossus of Rhodes"
+      - title: "Development of the Han Dynasty"
+      - title: "Establishment of the Silk Road"
+      - title: "First Punic War"
+
+  - from: -200
+    to: -101
+    events:
+      - title: "Construction of the Terracotta Army"
+      - title: "Reign of Cleopatra VII"
+      - title: "First Census in China"
+      - title: "Spread of Christianity"
+      - title: "Battle of Zama"
+
+  - from: -100
+    to: -1
+    events:
+      - title: "Julius Caesar's Assassination"
+      - title: "Establishment of the Roman Empire"
+      - title: "Construction of the Pont du Gard"
+      - title: "Birth of Jesus Christ"
+      - title: "Development of the Gregorian Calendar"
+
+  - from: 1
+    to: 100
+    events:
+      - title: "Construction of the Colosseum"
+      - title: "Development of the Julian Calendar"
+      - title: "Spread of Christianity"
+      - title: "Reign of Emperor Augustus"
+      - title: "Destruction of Pompeii"
+
+  - from: 101
+    to: 200
+    events:
+      - title: "Foundation of the Kingdom of Aksum"
+      - title: "Rise of the Kushan Empire"
+      - title: "Construction of Hadrian's Wall"
+      - title: "Spread of Buddhism to China"
+      - title: "Development of Silk Road Trade"
+
+  - from: 201
+    to: 300
+    events:
+      - title: "Establishment of the Gupta Empire"
+      - title: "Division of the Roman Empire"
+      - title: "Construction of the Arch of Constantine"
+      - title: "Spread of Christianity in the Roman Empire"
+      - title: "Development of Maya Civilization"
+
+  - from: 301
+    to: 400
+    events:
+      - title: "Reign of Constantine the Great"
+      - title: "Foundation of Constantinople"
+      - title: "Spread of Mahayana Buddhism"
+      - title: "Construction of the Great Stupa at Sanchi"
+      - title: "Development of the Code of Justinian"
+
+  - from: 401
+    to: 500
+    events:
+      - title: "Fall of the Western Roman Empire"
+      - title: "Rise of the Byzantine Empire"
+      - title: "Spread of Christianity in Europe"
+      - title: "Construction of the Hagia Sophia"
+      - title: "Development of Feudalism"
+
+  - from: 501
+    to: 600
+    events:
+      - title: "Foundation of the Sui Dynasty"
+      - title: "Reign of Emperor Justinian"
+      - title: "Spread of Islam"
+      - title: "Construction of the Grand Canal in China"
+      - title: "Development of the Code of Justinian"
+
+  - from: 601
+    to: 700
+    events:
+      - title: "Expansion of the Umayyad Caliphate"
+      - title: "Construction of the Dome of the Rock"
+      - title: "Rise of the Tang Dynasty"
+      - title: "Development of the Mayan Calendar"
+      - title: "Foundation of the Kingdom of Srivijaya"
+
+  - from: 701
+    to: 800
+    events:
+      - title: "Reign of Charlemagne"
+      - title: "Spread of Buddhism in Japan"
+      - title: "Construction of the Borobudur Temple"
+      - title: "Foundation of Baghdad"
+      - title: "Development of the Carolingian Renaissance"
+
+  - from: 801
+    to: 900
+    events:
+      - title: "Rise of the Abbasid Caliphate"
+      - title: "Viking Invasions in Europe"
+      - title: "Construction of the Great Mosque of Córdoba"
+      - title: "Development of the Feudal System"
+      - title: "Foundation of the University of al-Qarawiyyin"
+
+  - from: 901
+    to: 1000
+    events:
+      - title: "Foundation of the Holy Roman Empire"
+      - title: "Spread of Christianity in Scandinavia"
+      - title: "Construction of the Al-Azhar University"
+      - title: "Rise of the Fatimid Caliphate"
+      - title: "Development of the Byzantine Empire"
+
+  - from: 1001
+    to: 1100
+    events:
+      - title: "Norman Conquest of England"
+      - title: "Construction of the Tower of London"
+      - title: "Foundation of the Seljuk Empire"
+      - title: "Development of the Crusades"
+      - title: "Rise of the Khmer Empire"
+
+  - from: 1101
+    to: 1200
+    events:
+      - title: "Construction of Angkor Wat"
+      - title: "Rise of the Mongol Empire"
+      - title: "Development of Gothic Architecture"
+      - title: "Foundation of the University of Paris"
+      - title: "Spread of the Black Death"
+
+  - from: 1201
+    to: 1300
+    events:
+      - title: "Magna Carta Signed"
+      - title: "Foundation of the Ottoman Empire"
+      - title: "Construction of the Notre-Dame Cathedral"
+      - title: "Development of the Hanseatic League"
+      - title: "Rise of the Mali Empire"
+
+  - from: 1301
+    to: 1400
+    events:
+      - title: "Renaissance Begins in Italy"
+      - title: "Foundation of the Ming Dynasty"
+      - title: "Construction of the Kremlin"
+      - title: "Spread of the Black Death"
+      - title: "Development of the Hundred Years' War"
+
+  - from: 1401
+    to: 1500
+    events:
+      - title: "Discovery of the Americas"
+      - title: "Construction of the Sistine Chapel"
+      - title: "Foundation of the Inca Empire"
+      - title: "Development of the Printing Press"
+      - title: "Rise of the Ottoman Empire"
+
+  - from: 1501
+    to: 1600
+    events:
+      - title: "Protestant Reformation"
+      - title: "Foundation of the Mughal Empire"
+      - title: "Construction of St. Peter's Basilica"
+      - title: "Age of Exploration"
+      - title: "Development of the Scientific Revolution"
+
+  - from: 1601
+    to: 1700
+    events:
+      - title: "Founding of Jamestown"
+      - title: "Construction of the Taj Mahal"
+      - title: "English Civil War"
+      - title: "Rise of the Tokugawa Shogunate"
+      - title: "Development of the Enlightenment"
+
+  - from: 1701
+    to: 1800
+    events:
+      - title: "American Revolution"
+      - title: "Construction of the Palace of Versailles"
+      - title: "French Revolution"
+      - title: "Industrial Revolution Begins"
+      - title: "Development of the United States Constitution"
+
+  - from: 1801
+    to: 1900
+    events:
+      - title: "Napoleonic Wars"
+      - title: "Construction of the Eiffel Tower"
+      - title: "Emancipation of Slaves"
+      - title: "Rise of the British Empire"
+      - title: "Development of the Telephone"
+
+  - from: 1901
+    to: 2000
+    events:
+      - title: "World War I"
+      - title: "Russian Revolution"
+      - title: "World War II"
+      - title: "Moon Landing"
+      - title: "Fall of the Berlin Wall"
+      - title: "Development of the Internet"
+      - title: "Civil Rights Movement"
+      - title: "Decolonization of Africa"
+      - title: "End of Apartheid"
+      - title: "Rise of Globalization"

@@ -8,7 +8,7 @@ interface TimelineProps {
 export default function Timeline({ timelineData }: TimelineProps) {
   return (
     <div>
-      {timelineData.map((century) => (
+      {timelineData.Timeline.sort((a, b) => b.from - a.from).map((century) => (
         <Century
           key={century.from}
           yearFrom={century.from}

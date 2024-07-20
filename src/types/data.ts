@@ -17,7 +17,9 @@ export interface CenturyType {
   events: EventType[];
 }
 
-export type TimelineType = CenturyType[];
+export interface TimelineType {
+  Timeline: CenturyType[];
+}
 
 export const INITIAL_EVENT: EventType = {
   id: "",
