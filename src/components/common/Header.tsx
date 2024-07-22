@@ -21,7 +21,7 @@ export default function Header({}) {
         </nav>
         <p className="text-sm">
           <span className="text-foreLight">
-            The Interactive Timeline of Human History
+            The AI Generated Timeline of Human History
           </span>
         </p>
       </div>
