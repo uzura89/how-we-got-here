@@ -21,11 +21,14 @@ const DisclaimerModal: React.FC<ModalProps> = ({ visible, closeModal }) => {
       >
         <h2 className="font-bold text-3xl mb-4">Disclaimer</h2>
         <p className="text-lg leading-relaxed">
-          <strong>All content is AI-generated</strong> and may not be as
-          reliable as verified historical sources. For accuracy, please verify
-          information by checking the linked Wikipedia page or other reputable
-          sources. To learn more about our content generation process, visit our{" "}
-          <Ahref href="/about">About</Ahref> page.
+          <strong>
+            All content including events, descriptions, images are all
+            AI-generated
+          </strong>{" "}
+          and may not be as reliable as verified historical sources. For
+          accuracy, please verify information by checking the linked Wikipedia
+          page or other reputable sources. To learn more about our content
+          generation process, visit our <Ahref href="/about">About</Ahref> page.
         </p>
       </div>
     </Modal>

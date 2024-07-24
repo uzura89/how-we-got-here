@@ -30,22 +30,12 @@ export default function About() {
         <H2>Creation Process</H2>
         <P>Our world history timeline is crafted using AI technologies:</P>
         <Ul>
+          <Li>Events are created using GPT-4 by OpenAI</Li>
+          <Li>Illustrations are generated using DALLE-3 by OpenAI</Li>
           <Li>
-            Event selection is generated using GPT-4: a large language model
-            developed by OpenAI
+            The each events are reviewed by other AI models (Claude AI, etc.)
           </Li>
-          <Li>
-            Illustrations are created using DALL-E 3: an AI image generation
-            tool developed by OpenAI
-          </Li>
-          <Li>
-            The generated events were then reviewed using other AI model (Claude
-            AI) to ensure accuracy and coherence
-          </Li>
-          <Li>
-            The selection of events are fully controlled by AI and no
-            indivisuals or organizations had influence on the selection
-          </Li>
+          <Li>The selection of events are not influenced by any indivisuals</Li>
         </Ul>
 
         <P>
