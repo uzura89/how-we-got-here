@@ -4,7 +4,6 @@ import { fileURLToPath } from "url";
 import yaml from "js-yaml";
 
 import convertDateToString from "./modules/convertDateToString";
-import generateEventDetail from "./modules/generateEventDetail";
 import loadOverview from "./modules/loadOverview";
 import { CenturyType } from "@/types/data";
 import console from "console";
@@ -35,14 +34,12 @@ async function main() {
     while (overview.Timeline.length > cnt) {
       const { from, to, events } = overview.Timeline[cnt];
       const century = await addDetailToEvents(from, to, events);
-      console.log("🚀 ~ main ~ century:", century);
       centuries.push(century);
       cnt++;
     }
 
     // save centuries to file
     const timelineYaml = yaml.dump({ Timeline: centuries });
-    console.log("🚀 ~ main ~ timelineYaml:", timelineYaml);
 
     await saveYamlToFile(timelineYaml, PATH_TO_DATA_DIR);
   } catch (error) {
@@ -63,7 +60,6 @@ async function addDetailToEvents(
   const detailYaml = await OpenAIUtil.generateContent(makePrompt(overviewYaml));
 
   const detailYamlTrimmed = detailYaml.replace(/```(yaml)?/g, "");
-  console.log("🚀 ~ detailYamlTrimmed:", detailYamlTrimmed);
   const century = yaml.load(detailYamlTrimmed) as CenturyType;
   return century;
 }

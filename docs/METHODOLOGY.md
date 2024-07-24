@@ -1,50 +1,41 @@
 # Methodology of "How We Got Here"
 
-This document outlines the methodology used in our project to create an AI-generated timeline of human history. Our approach combines the power of multiple AI models with Wikipedia references and community involvement to produce a comprehensive and evolving historical resource.
+This document outlines the methodology used in our project to create an AI-generated timeline of human history.
 
 ## Overview
 
 Our methodology consists of five main steps:
 
 1. Event Generation
-2. Event Refinement
-3. Detail Addition
-4. Wikipedia Comparison
-5. Image Generation
+2. Detail Addition
+3. Review
+4. Image Generation
 
 ## Detailed Process
 
 ### 1. Event Generation
 
-- We use three AI models: GPT-4, Claude 3.5 Sonnet, and Gemini.
-- Each model is prompted to generate a list of significant historical events for a specific time period.
-- The time periods are typically divided into centuries or smaller ranges for more recent history.
+- We use one AI model (GPT-4) to generate important historical events.
+- For this step, we only generate titles of each events.
 
-### 2. Event Refinement
+### 2. Detail Addition
 
-- The outputs from the three AI models are compared and synthesized.
-- An AI model (typically Claude 3.5 Sonnet) is used to identify the most significant and commonly mentioned events across the three lists.
-- A refined list of 5-10 key events for each time period is created.
-
-### 3. Detail Addition
-
-- For each event in the refined list, we prompt an AI model to provide:
-  - A more detailed description (50-75 words)
+- For each event, we prompt an AI model (GPT-4) to provide:
+  - A more detailed description (around 300 characters)
   - A suggested relevant Wikipedia page title
+  - Approximate year of the events (index)
 
-### 4. Wikipedia Comparison
+### 3. Review
 
-- The AI-generated description is compared with the content from the suggested Wikipedia page.
+- The generated events and descriptions are reviewed by multiple AI models (ClaudeAI and Gemini)
 - This comparison involves:
-  - Identifying discrepancies
-  - Noting additional important information from Wikipedia
-  - Suggesting corrections or additions to the AI-generated description
-  - Manual modification to the content based on the suggestion
+  - Let AIs check the accuracy of the event's description and the time frame
+  - If any false information is detected, the content will be fixed manually
 
-### 5. Image Generation
+### 4. Image Generation
 
 - Using DALL-E 3, we generate an image to represent each historical event.
-- The image generation is based on the event description and aims to capture the essence of the event while maintaining historical accuracy.
+- The image generation is based on the event description and aims to capture the essence of the event.
 
 ## Continuous Improvement
 
@@ -56,7 +47,8 @@ Our methodology includes a feedback loop for continuous improvement:
 
 ## Data Storage and Presentation
 
-- All generated content, including events, descriptions, and image references, is stored in a structured format (e.g., YAML).
+- All text content, including events, descriptions is stored in a structured format (YAML) [timeline.yaml](src/data/timeline/timeline.yaml)
+- All image content is stored in [img/event](public/img/event)
 - The website dynamically renders this content to create the interactive timeline.
 
 ## Limitations
@@ -66,13 +58,3 @@ Our methodology includes a feedback loop for continuous improvement:
 - Historical interpretations can vary, and our content may not represent all perspectives.
 
 We encourage users to approach the information critically and to consult multiple sources for important historical facts.
-
-## Future Developments
-
-We are continuously exploring ways to improve our methodology, including:
-
-- Incorporating more diverse AI models and historical sources
-- Enhancing the review process with expert historians
-- Developing more sophisticated methods for cross-referencing and fact-checking
-
-By combining AI generation, Wikipedia comparison, and community involvement, we aim to create a reliable, comprehensive, and continually improving historical resource.

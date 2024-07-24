@@ -29,8 +29,8 @@ export default async function generateImage(
       isBC ? " BC" : ""
     }`;
 
-    console.log("🚀 ~ title:", title);
-    console.log("🚀 ~ year:", era);
+    console.log("title:", title);
+    console.log("year:", era);
 
     const imageUrl = await OpenAIUtil.generateImage(
       `You are a skilled illustrator that creates engaging hyper-realism illustration of given historical event. The image should be historically accurate. This time, please draw an illustration for "${title}" that took place in the ${era}.`

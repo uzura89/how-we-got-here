@@ -5,7 +5,6 @@ import yaml from "js-yaml";
 
 import ClaudeUtil from "content/common/ai/claude";
 import { EventType, TimelineType } from "@/types/data";
-import OpenAIUtil from "content/common/ai/openai";
 import { convertYearToHumanReadable } from "@/utils/yearUtils";
 import GeminiUtil from "content/common/ai/gemini";
 

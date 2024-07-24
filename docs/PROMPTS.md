@@ -4,59 +4,16 @@ This document outlines the prompts used to generate and refine the content for o
 
 ## 1. Event Overview Generation
 
-This prompt is used to generate an initial overview of historical events for a given time period.
+The prompt used for event overview generation can be found in [prompt.txt](content/01-event-generation/prompt/prompt.txt)
 
-```
-Please list up important events in human history from 10,000 B.C.E. to the last century.
-Plese select the events that are significant and interesting to all people around the world.
-The output format should be a yaml format like below:
+## 2. Detailed Information Addition
 
-Timeline:
-  - from: -10,000
-    to: -4,001
-    events:
-      - title: "Invention of Agriculture" // 5 events for each group (10 for the last century)
+The prompt used to add detailed information to events can be found in [main.ts](/content/02-detail-addition/scripts/main.ts)
 
-Divide them into groups of centuries like this:
-10000 B.C.E. ~ 4001 B.C.E.
-4000 B.C.E. ~ 3001 B.C.E
-3000 B.C.E. ~ 2001 B.C.E.
-2000 B.C.E. ~ 1201 B.C.E.
-12th century B.C.E
-11th century B.C.E
-10th century B.C.E
-...
-the last century
-```
+## 3. Review
 
-## 2. Event Comparison and Extraction
+The prompt used to review each events can be found in [main.ts](/content/03-review/scripts/main.ts)
 
-This prompt is used to compare overviews from different AI models and extract the most prominent events.
+## 4. Image Generation
 
-```
-
-```
-
-## 3. Detailed Information Addition
-
-This prompt is used to add more detailed information to each event, including a longer description and a potential Wikipedia link.
-
-```
-
-```
-
-## 4. Wikipedia Comparison (Review Process)
-
-This prompt is used to compare the AI-generated event description with the content from the suggested Wikipedia page.
-
-```
-
-```
-
-## 5. Image Generation
-
-This prompt is used to generate an image representing the historical event.
-
-```
-
-```
+The prompt used to generate images for each events can be found in [main.ts](/content/04-image-generation/scripts/main.ts)

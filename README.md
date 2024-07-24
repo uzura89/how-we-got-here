@@ -2,26 +2,7 @@
 
 ## AI-Generated Human History
 
-"How We Got Here" is an open-source project that presents the entire human history through AI-generated events, descriptions, and images. Our goal is to create an accessible, comprehensive, and continually improving historical timeline.
-
-## Project Overview
-
-This project uses multiple AI models to generate historical content, which is then compared with Wikipedia pages. We aim for transparency in our methods and welcome community contributions to improve accuracy and coverage.
-
-## Key Features
-
-- AI-generated historical events, descriptions, and images
-- Reviewing of the content compared with Wikipedia
-- Transparent methodology and AI prompts
-- Community-driven improvements through user feedback
-
-## How It Works
-
-1. AI models generate initial content
-2. Content is cross-referenced with Wikipedia pages
-3. Community feedback is incorporated through a structured process
-
-For detailed information on our methodology, AI prompts, and reviewing process, please see the documentation in the `docs` folder.
+"How We Got Here" is a comprehensive world history timeline that takes you on a captivating journey through human history. Our interactive timeline presents key historical events with engaging illustrations, all generated using artificial intelligence. This AI-driven approach offers a unique perspective on how our world has evolved over time, free from individual biases and presenting a collective view of history.
 
 ## Contributing
 
@@ -38,7 +19,6 @@ Please read our [CONTRIBUTING.md](docs/CONTRIBUTING.md) for details on our code 
 - [AI Prompts](docs/PROMPTS.md)
 - [Methodology](docs/METHODOLOGY.md)
 - [AI Models Used](docs/AI_MODELS.md)
-- [Reviewing Process](docs/REVIEWING.md)
 
 ## Disclaimer
 
@@ -46,7 +26,7 @@ While we strive for accuracy, this project relies on AI-generated content. Users
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
@@ -56,4 +36,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-For questions or concerns, please open an issue on this repository or contact [Your Contact Information].
+For questions or concerns, please send a message to "yuya.uzu@gmail.com".
