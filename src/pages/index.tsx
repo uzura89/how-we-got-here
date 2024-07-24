@@ -28,6 +28,7 @@ export default function Home({ timelineData }: { timelineData: TimelineType }) {
   return (
     <div className="">
       <Head>
+        <title>How We Got Here - A World History Timeline</title>
         <HeadSetter
           title="How We Got Here - A World History Timeline"
           description="An AI-generated visual timeline of the world history. Explore key historical events with engaging illustrations."

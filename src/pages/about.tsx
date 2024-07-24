@@ -9,6 +9,7 @@ export default function About() {
   return (
     <div className="border-t border-border pt-4 pb-7">
       <Head>
+        <title>About Page | How We Got Here</title>
         <HeadSetter
           title="About Page | How We Got Here"
           description="Learn more about How We Got Here, an AI-generated world history timeline. Discover the creation process and features of our interactive timeline."
