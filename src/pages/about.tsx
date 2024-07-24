@@ -8,15 +8,12 @@ import { CONS_IMG_PATH_OGP, CONS_APP_URL } from "@/constants/basic.cons";
 export default function About() {
   return (
     <div className="border-t border-border pt-4 pb-7">
-      <Head>
-        <title>About Page | How We Got Here</title>
-        <HeadSetter
-          title="About Page | How We Got Here"
-          description="Learn more about How We Got Here, an AI-generated world history timeline. Discover the creation process and features of our interactive timeline."
-          image={CONS_IMG_PATH_OGP}
-          url={CONS_APP_URL}
-        />
-      </Head>
+      <HeadSetter
+        title="About Page | How We Got Here"
+        description="Learn more about How We Got Here, an AI-generated world history timeline. Discover the creation process and features of our interactive timeline."
+        image={CONS_IMG_PATH_OGP}
+        url={CONS_APP_URL}
+      />
 
       <Article>
         <H1>A World History Timeline</H1>

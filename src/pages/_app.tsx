@@ -47,7 +47,7 @@ export default function App({ Component, pageProps }: AppProps) {
 `}
         </script>
       </Head>
-      <Component {...pageProps} />;
+      <Component {...pageProps} />
     </>
   );
 }

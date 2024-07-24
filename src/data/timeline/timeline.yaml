@@ -991,16 +991,14 @@ Timeline:
           Justinian, a foundational legal text.
         link: https://en.wikipedia.org/wiki/Justinian_I
         index: 527
-
-      - title: Development of the Code of Justinian
-        id: development-of-the-code-of-justinian
+      - title: Introduction of Buddhism to Japan
+        id: introduction-of-buddhism-to-japan
         description: >-
-          Also known as Corpus Juris Civilis, the Code of Justinian was
-          developed under the order of Emperor Justinian I between 529–534 AD.
-          It systematized Roman law and greatly influenced the legal systems of
-          many modern European nations.
-        link: https://en.wikipedia.org/wiki/Corpus_Juris_Civilis
-        index: 529
+          Buddhism was officially introduced to Japan from the Korean kingdom of Baekje in 538 AD.
+          This event had a profound impact on Japanese culture, art, and philosophy.
+        link: https://en.wikipedia.org/wiki/History_of_Buddhism_in_Japan
+        index: 538
+
     lastUpdated: "2024-07-20"
   - from: 601
     to: 700

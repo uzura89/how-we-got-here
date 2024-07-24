@@ -1,3 +1,5 @@
+import Head from "next/head";
+
 interface Props {
   title: string;
   description: string;
@@ -7,8 +9,9 @@ interface Props {
 
 export default function HeadSetter({ title, description, image, url }: Props) {
   return (
-    <>
+    <Head>
       {/* Page Descriptions */}
+      <title>{title}</title>
       <meta name="description" content={description} />
       <meta property="og:title" content={title} />
       <meta property="og:description" content={description} />
@@ -19,6 +22,6 @@ export default function HeadSetter({ title, description, image, url }: Props) {
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={description} />
       <meta name="twitter:image" content={image} />
-    </>
+    </Head>
   );
 }
