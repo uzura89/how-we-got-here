@@ -1,9 +1,22 @@
+import Head from "next/head";
+
 import { Article, H1, H2, Li, P, Ul } from "@/components/common/ArticleUtils";
 import Ahref from "@/components/common/buttons/Ahref";
+import HeadSetter from "@/components/common/HeadSetter";
+import { CONS_IMG_PATH_OGP, CONS_APP_URL } from "@/constants/basic.cons";
 
 export default function About() {
   return (
     <div className="border-t border-border pt-4 pb-7">
+      <Head>
+        <HeadSetter
+          title="About Page | How We Got Here"
+          description="Learn more about How We Got Here, an AI-generated world history timeline. Discover the creation process and features of our interactive timeline."
+          image={CONS_IMG_PATH_OGP}
+          url={CONS_APP_URL}
+        />
+      </Head>
+
       <Article>
         <H1>A World History Timeline</H1>
         <P>
