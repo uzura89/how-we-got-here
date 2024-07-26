@@ -35,7 +35,7 @@ export default function Modal({ visible, children, closeModal }: Props) {
     >
       {/* Scroller */}
       <div className="py-8 px-2 overflow-y-scroll h-[100vh] w-full flex justify-center items-start md:items-center">
-        {children}
+        <div onClick={(e) => e.stopPropagation()}>{children}</div>
       </div>
     </div>
   );

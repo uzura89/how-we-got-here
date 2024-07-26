@@ -10,7 +10,7 @@ interface ModalProps {
 
 const DisclaimerModal: React.FC<ModalProps> = ({ visible, closeModal }) => {
   return (
-    <Modal visible={visible} closeModal={closeModal}>
+    <Modal visible={visible} closeModal={() => {}}>
       <div
         className={`
       bg-card rounded-3xl shadow-lg overflow-hidden 
@@ -30,6 +30,11 @@ const DisclaimerModal: React.FC<ModalProps> = ({ visible, closeModal }) => {
           page or other reputable sources. To learn more about our content
           generation process, visit our <Ahref href="/about">About</Ahref> page.
         </p>
+        <div className="flex justify-end mt-4">
+          <button className="button w-full" onClick={closeModal}>
+            Understood
+          </button>
+        </div>
       </div>
     </Modal>
   );

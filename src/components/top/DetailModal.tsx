@@ -68,10 +68,7 @@ const DetailModal: React.FC<ModalProps> = ({
             <p className="text-gray-800 mb-5 leading-relaxed grow">
               {description}
             </p>
-            <button
-              onClick={handleClickLink}
-              className="bg-black text-white px-4 py-2 rounded-md inline-flex gap-2 items-center justify-center clickable"
-            >
+            <button onClick={handleClickLink} className="button">
               <HiOutlineExternalLink className="text-lg opacity-90" />
               Open Wikipedia
             </button>

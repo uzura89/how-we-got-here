@@ -24,13 +24,9 @@ const IMAGE_EXTENTION = ".webp";
 async function main() {
   const eventsWithNoImage = getEventsWithNoImage();
 
-  let count = 0;
-
-  while (eventsWithNoImage.length > count) {
-    console.log(`Generating images for ${eventsWithNoImage.length} events...`);
-    const { id, title, description, index } = eventsWithNoImage[count];
+  for (const { id, title, description, index } of eventsWithNoImage) {
+    console.log(`Generating an image for ${id}...`);
     await generateAndSaveImage(id, title, description, index);
-    count++;
   }
 }
 

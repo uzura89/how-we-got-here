@@ -14,23 +14,15 @@ const __dirname = path.dirname(__filename);
 async function main() {
   const timeline = await loadTimeline();
 
-  let count = 0;
-  while (count < timeline.Timeline.length) {
-    const century = timeline.Timeline[count];
-
-    let count2 = 0;
-    while (count2 < century.events.length) {
-      const event = century.events[count2];
+  for (const century of timeline.Timeline) {
+    for (const event of century.events) {
       const error = await getFactCheckError(century.from, century.to, event);
       if (error) {
         await writeFactCheckError(century.from, century.to, event, error);
       } else {
         console.log(`Pass: ${event.title}`);
       }
-      count2++;
     }
-
-    count++;
   }
 }
 

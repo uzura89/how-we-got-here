@@ -22,20 +22,16 @@ async function main() {
   try {
     const overview = loadOverview();
 
-    const centuries = [];
-
     // check if the folder has any files
     const files = fs.readdirSync(PATH_TO_DATA_DIR);
     if (files.length > 0) {
       throw new Error("Directory is not empty");
     }
 
-    let cnt = 0;
-    while (overview.Timeline.length > cnt) {
-      const { from, to, events } = overview.Timeline[cnt];
+    const centuries = [];
+    for (const { from, to, events } of overview.Timeline) {
       const century = await addDetailToEvents(from, to, events);
       centuries.push(century);
-      cnt++;
     }
 
     // save centuries to file
