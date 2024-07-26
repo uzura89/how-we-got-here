@@ -16,4 +16,4 @@ The prompt used to review each events can be found in [main.ts](/content/03-revi
 
 ## 4. Image Generation
 
-The prompt used to generate images for each events can be found in [main.ts](/content/04-image-generation/scripts/main.ts)
+The prompt used to generate images for each events can be found in [main.ts](/content/04-image-generation/scripts/modules/generateImage.ts)
