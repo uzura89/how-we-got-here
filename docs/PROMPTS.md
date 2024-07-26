@@ -4,7 +4,7 @@ This document outlines the prompts used to generate and refine the content for o
 
 ## 1. Event Overview Generation
 
-The prompt used for event overview generation can be found in [prompt.txt](content/01-event-generation/prompt/prompt.txt)
+The prompt used for event overview generation can be found in [prompt.txt](/content/01-event-generation/prompt/prompt.txt)
 
 ## 2. Detailed Information Addition
 

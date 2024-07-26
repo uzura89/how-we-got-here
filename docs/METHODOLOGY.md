@@ -47,8 +47,8 @@ Our methodology includes a feedback loop for continuous improvement:
 
 ## Data Storage and Presentation
 
-- All text content, including events, descriptions is stored in a structured format (YAML) [timeline.yaml](src/data/timeline/timeline.yaml)
-- All image content is stored in [img/event](public/img/event)
+- All text content, including events, descriptions is stored in a structured format (YAML) [timeline.yaml](/src/data/timeline/timeline.yaml)
+- All image content is stored in [img/event](/public/img/event)
 - The website dynamically renders this content to create the interactive timeline.
 
 ## Limitations

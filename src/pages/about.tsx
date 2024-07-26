@@ -1,5 +1,3 @@
-import Head from "next/head";
-
 import { Article, H1, H2, Li, P, Ul } from "@/components/common/ArticleUtils";
 import Ahref from "@/components/common/buttons/Ahref";
 import HeadSetter from "@/components/common/HeadSetter";
@@ -19,7 +17,7 @@ export default function About() {
         <H1>A World History Timeline</H1>
         <P>
           "How We Got Here" is a comprehensive world history timeline that takes
-          you on a captivating journey through human history. Our interactive
+          you on a journey through human civilization history. Our interactive
           timeline presents key historical events with engaging illustrations,
           all generated using artificial intelligence. This AI-driven approach
           offers a unique perspective on how our world has evolved over time,
@@ -59,11 +57,11 @@ export default function About() {
 
         <H2>Disclaimer</H2>
         <P>
-          While our world history timeline serves as an excellent starting point
-          for historical exploration, we encourage users to verify information
-          through reputable historical sources. The events and illustrations
-          presented are AI-generated and should not be considered definitive
-          historical accounts.
+          The events and illustrations presented are AI-generated and should not
+          be considered definitive historical accounts. While our world history
+          timeline serves as an excellent starting point for historical
+          exploration, we encourage users to verify information through
+          reputable historical sources.
         </P>
 
         <H2>Contact Us</H2>
