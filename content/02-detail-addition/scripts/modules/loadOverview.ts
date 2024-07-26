@@ -8,10 +8,7 @@ import { OverviewType } from "content/common/types/types";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-const PATH_TO_OVERVIEW = path.join(
-  __dirname,
-  "../../../01-event-generation/output/overview_openai.yaml"
-);
+const PATH_TO_OVERVIEW = path.join(__dirname, "../../input/overview.yaml");
 
 export default function loadOverview(): OverviewType {
   try {

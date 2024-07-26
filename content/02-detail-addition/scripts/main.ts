@@ -58,6 +58,7 @@ async function addDetailToEvents(
 ): Promise<CenturyType> {
   const overviewYaml = convertToYaml(from, to, events);
   const detailYaml = await OpenAIUtil.generateContent(makePrompt(overviewYaml));
+  console.log("🚀 ~ detailYaml:", detailYaml);
 
   const detailYamlTrimmed = detailYaml.replace(/```(yaml)?/g, "");
   const century = yaml.load(detailYamlTrimmed) as CenturyType;
@@ -106,7 +107,7 @@ function makePrompt(yaml: string): string {
 The data to add is:
 - id // slug of the title
 - description // short description about the event (around 300 characters)
-- link // link to a relevant Wikipedia page
+- link // link to a reputable source
 - index // approximate year of the event (negative number for BC)
 
 Here is the yaml file:

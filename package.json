@@ -11,7 +11,8 @@
     "gen:overview": "tsx content/01-event-generation/scripts/main.ts",
     "gen:details": "tsx content/02-detail-addition/scripts/main.ts",
     "gen:review": "tsx content/03-review/scripts/main.ts",
-    "gen:images": "tsx content/04-image-generation/scripts/main.ts"
+    "gen:images": "tsx content/04-image-generation/scripts/main.ts",
+    "gen:source": "tsx content/05-add-sources/scripts/main.ts"
   },
   "dependencies": {
     "@fontsource/inter": "^5.0.19",

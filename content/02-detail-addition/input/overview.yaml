@@ -95,6 +95,14 @@ Timeline:
   - from: -3000
     to: -2001
     events:
+      - title: First Use of Iron Weapons
+        id: first-use-of-iron-weapons
+        description: >-
+          The transition from bronze to iron weaponry began in this era,
+          revolutionizing military technology and giving rise to the term "Iron
+          Age."
+        link: https://en.wikipedia.org/wiki/Iron_Age
+        index: -3000
       - title: Construction of the Egyptian Pyramids
         id: construction-egyptian-pyramids
         description: >-
@@ -120,15 +128,6 @@ Timeline:
           reign of Ur-Nammu, the founder of the Third Dynasty of Ur.
         link: https://en.wikipedia.org/wiki/Code_of_Ur-Nammu
         index: -2100
-      - title: Emergence of Minoan Civilization
-        id: emergence-minoan-civilization
-        description: >-
-          The Minoan Civilization emerged on the island of Crete around 2700 BC.
-          Known for its palatial centers, such as Knossos, and advanced art and
-          architecture, it is considered one of the earliest advanced
-          civilizations in Europe.
-        link: https://en.wikipedia.org/wiki/Minoan_civilization
-        index: -2700
       - title: Rise of Akkadian Empire
         id: rise-akkadian-empire
         description: >-
@@ -177,6 +176,17 @@ Timeline:
           impressive architecture and culture.
         link: https://en.wikipedia.org/wiki/Babylon
         index: -1894
+      - title: Construction of Stonehenge
+        id: construction-of-stonehenge
+        description: >-
+          Stonehenge, located in southern England, reached its final stage of construction around -1600 BCE. This prehistoric monument is believed to have been used for ceremonial or religious purposes, aligning with the sun's movements.
+        link: https://en.wikipedia.org/wiki/Stonehenge
+        index: -1600
+    lastUpdated: "2024-07-20"
+
+  - from: -1200
+    to: -1101
+    events:
       - title: Beginning of the Iron Age
         id: beginning-of-the-iron-age
         description: >-
@@ -186,10 +196,6 @@ Timeline:
           of others, due to the superior strength of iron tools and weapons.
         link: https://en.wikipedia.org/wiki/Iron_Age
         index: -1200
-    lastUpdated: "2024-07-20"
-  - from: -1200
-    to: -1101
-    events:
       - title: Trojan War
         id: trojan-war
         description: >-
@@ -217,15 +223,7 @@ Timeline:
           largely mysterious, though their impact is well-documented.
         link: https://en.wikipedia.org/wiki/Sea_Peoples
         index: -1170
-      - title: Rise of the Neo-Assyrian Empire
-        id: rise-of-the-neo-assyrian-empire
-        description: >-
-          The Neo-Assyrian Empire emerged as a powerful entity in the Near East,
-          known for its military prowess, architectural achievements, and
-          administrative efficiency. This period laid the foundation for the
-          subsequent expansion and dominance of Assyria in the region.
-        link: https://en.wikipedia.org/wiki/Neo-Assyrian_Empire
-        index: -1100
+
       - title: First Use of Alphabetic Writing
         id: first-use-of-alphabetic-writing
         description: >-
@@ -239,14 +237,15 @@ Timeline:
   - from: -1100
     to: -1001
     events:
-      - title: Foundation of Carthage
-        id: foundation-of-carthage
+      - title: Rise of the Neo-Assyrian Empire
+        id: rise-of-the-neo-assyrian-empire
         description: >-
-          Carthage was founded by Phoenician settlers from Tyre. It grew to
-          become a major power in the Mediterranean and played a crucial role in
-          various historical conflicts, including the Punic Wars against Rome.
-        link: https://en.wikipedia.org/wiki/Carthage
-        index: -814
+          The Neo-Assyrian Empire emerged as a powerful entity in the Near East,
+          known for its military prowess, architectural achievements, and
+          administrative efficiency. This period laid the foundation for the
+          subsequent expansion and dominance of Assyria in the region.
+        link: https://en.wikipedia.org/wiki/Neo-Assyrian_Empire
+        index: -1100
       - title: Development of the Olmec Civilization
         id: development-of-the-olmec-civilization
         description: >-
@@ -256,15 +255,6 @@ Timeline:
           civilizations such as the Maya and Aztec.
         link: https://en.wikipedia.org/wiki/Olmec
         index: -1100
-      - title: First Olympic Games
-        id: first-olympic-games
-        description: >-
-          The first recorded Olympic Games were held in 776 BC in Olympia,
-          Greece. These games were part of a festival to honor Zeus, featuring
-          various athletic competitions that became a cornerstone of Greek
-          culture.
-        link: https://en.wikipedia.org/wiki/Ancient_Olympic_Games
-        index: -776
       - title: Rise of the Kingdom of Israel
         id: rise-of-the-kingdom-of-israel
         description: >-
@@ -283,6 +273,12 @@ Timeline:
           beginning of the Iron Age.
         link: https://en.wikipedia.org/wiki/Iron_Age
         index: -1200
+      - title: Composition of the Rigveda
+        id: composition-of-the-rigveda
+        description: >-
+          The Rigveda, one of the oldest sacred texts of Hinduism, is believed to have been composed around -1100 BCE. It consists of hymns dedicated to various deities and is a foundational text for understanding ancient Vedic religion and society.
+        link: https://en.wikipedia.org/wiki/Rigveda
+        index: -1100
     lastUpdated: "2024-07-20"
   - from: -1000
     to: -901
@@ -305,14 +301,6 @@ Timeline:
           nation.
         link: https://en.wikipedia.org/wiki/Solomon%27s_Temple
         index: -957
-      - title: Founding of Rome (Traditional Date)
-        id: founding-of-rome
-        description: >-
-          According to Roman tradition, the city of Rome was founded by Romulus
-          and Remus in 753 BC. This event marks the beginning of Roman
-          civilization and its eventual expansion into a vast empire.
-        link: https://en.wikipedia.org/wiki/Founding_of_Rome
-        index: -753
       - title: Spread of the Phoenician Alphabet
         id: spread-of-the-phoenician-alphabet
         description: >-
@@ -330,10 +318,24 @@ Timeline:
           role in the development of Greek culture, politics, and society.
         link: https://en.wikipedia.org/wiki/Greek_city-state
         index: -800
+      - title: The Assyrian Empire Begins Its Rise to Power
+        id: rise-of-the-assyrian-empire
+        description: >-
+          Starting around 934 BC under King Ashur-Dan II, the Assyrian Empire began expanding significantly, initiating a series of military campaigns that would see it become one of the most formidable empires of the ancient Near East.
+        link: https://en.wikipedia.org/wiki/Neo-Assyrian_Empire
+        index: -934
     lastUpdated: "2024-07-20"
   - from: -900
     to: -801
     events:
+      - title: Foundation of Carthage
+        id: foundation-of-carthage
+        description: >-
+          Carthage was founded by Phoenician settlers from Tyre. It grew to
+          become a major power in the Mediterranean and played a crucial role in
+          various historical conflicts, including the Punic Wars against Rome.
+        link: https://en.wikipedia.org/wiki/Carthage
+        index: -814
       - title: Rise of the Etruscan Civilization
         id: rise-of-the-etruscan-civilization
         description: >-
@@ -342,15 +344,6 @@ Timeline:
           architecture, and organization, laying the foundation for the future
           Roman Empire.
         link: https://en.wikipedia.org/wiki/Etruscan_civilization
-        index: -900
-      - title: Development of the Mesoamerican Ballgame
-        id: development-of-the-mesoamerican-ballgame
-        description: >-
-          The Mesoamerican ballgame, a sport with ritual significance, saw
-          significant development during this time. It was played across various
-          cultures including the Olmec and Maya, becoming a key aspect of
-          Mesoamerican identity and mythology.
-        link: https://en.wikipedia.org/wiki/Mesoamerican_ballgame
         index: -900
       - title: Expansion of the Neo-Assyrian Empire
         id: expansion-of-the-neo-assyrian-empire
@@ -383,23 +376,15 @@ Timeline:
   - from: -800
     to: -701
     events:
-      - title: Establishment of the Roman Republic
-        id: establishment-of-the-roman-republic
+      - title: First Olympic Games
+        id: first-olympic-games
         description: >-
-          The Roman Republic was established in 509 BC, following the overthrow
-          of the Roman Kingdom. This event marked the beginning of a new system
-          of government that lasted until the rise of the Roman Empire.
-        link: https://en.wikipedia.org/wiki/Roman_Republic
-        index: -509
-      - title: Construction of the Acropolis in Athens
-        id: construction-of-the-acropolis-in-athens
-        description: >-
-          The Acropolis, a significant ancient Athenian landmark, saw major
-          construction around 447 BC. It includes buildings such as the
-          Parthenon, a monument reflecting the glory and cultural achievements
-          of Classical Greece.
-        link: https://en.wikipedia.org/wiki/Acropolis_of_Athens
-        index: -447
+          The first recorded Olympic Games were held in 776 BC in Olympia,
+          Greece. These games were part of a festival to honor Zeus, featuring
+          various athletic competitions that became a cornerstone of Greek
+          culture.
+        link: https://en.wikipedia.org/wiki/Ancient_Olympic_Games
+        index: -776
       - title: First Recorded Solar Eclipse
         id: first-recorded-solar-eclipse
         description: >-
@@ -408,15 +393,65 @@ Timeline:
           chronology and the understanding of celestial phenomena.
         link: https://en.wikipedia.org/wiki/Solar_eclipse_of_June_15,_763_BC
         index: -763
-      - title: Emergence of the Achaemenid Empire
-        id: emergence-of-the-achaemenid-empire
+      - title: Founding of Rome (Traditional Date)
+        id: founding-of-rome
         description: >-
-          The Achaemenid Empire, founded by Cyrus the Great around 550 BC, was
-          one of the first Persian Empires and became the largest empire the
-          world had seen. It significantly influenced the course of history in
-          the ancient Near East.
-        link: https://en.wikipedia.org/wiki/Achaemenid_Empire
-        index: -550
+          According to Roman tradition, the city of Rome was founded by Romulus
+          and Remus in 753 BC. This event marks the beginning of Roman
+          civilization and its eventual expansion into a vast empire.
+        link: https://en.wikipedia.org/wiki/Founding_of_Rome
+        index: -753
+      - title: Establishment of the Neo-Assyrian Empire
+        id: establishment-of-the-neo-assyrian-empire
+        description: >-
+          The Neo-Assyrian Empire saw a major phase of expansion starting around -800 BCE, which established it as a dominant power in the ancient Near East.
+        link: https://en.wikipedia.org/wiki/Neo-Assyrian_Empire
+        index: -800
+      - title: Reforms of Homer's Epics
+        id: reforms-of-homers-epics
+        description: >-
+          Around -750 BCE, the epics of Homer, including the Iliad and the Odyssey, began to be systematically recorded. These texts profoundly influenced Western literature and culture.
+        link: https://en.wikipedia.org/wiki/Homer
+        index: -750
+    lastUpdated: "2024-07-20"
+  - from: -700
+    to: -601
+    events:
+      - title: Rise of the Medes
+        id: rise-of-the-medes
+        description: >-
+          The Medes, an ancient Iranian people, established their dominance in the region that is now northern Iran, becoming a significant power in the ancient Near East.
+        link: https://en.wikipedia.org/wiki/Medes
+        index: -678
+      - title: Foundation of the Kingdom of Lydia
+        id: foundation-of-the-kingdom-of-lydia
+        description: >-
+          The Kingdom of Lydia was established in the early 7th century BC in western Anatolia, and it became renowned for its rich deposits of gold and silver.
+        link: https://en.wikipedia.org/wiki/Lydia
+        index: -680
+      - title: Development of Zoroastrianism
+        id: development-of-zoroastrianism
+        description: >-
+          Zoroastrianism, one of the world's oldest monotheistic religions, developed during this period in ancient Iran, founded by the prophet Zoroaster.
+        link: https://en.wikipedia.org/wiki/Zoroastrianism
+        index: -600
+      - title: Establishment of Sparta's Military Reforms (Agoge System)
+        id: sparta-military-reforms-agoge
+        description: >-
+          Around -650 BCE, Sparta initiated the agoge, a comprehensive system of education and military training, which significantly contributed to its reputation as a formidable military state.
+        link: https://en.wikipedia.org/wiki/Agoge
+        index: -650
+      - title: The Assyrian Empire's Expansion under King Ashurbanipal
+        id: assyrian-empire-expansion-ashurbanipal
+        description: >-
+          King Ashurbanipal, ruling from -668 to -627 BCE, expanded the Assyrian Empire to its zenith, known for his conquests and the creation of the Library of Ashurbanipal, which housed a vast collection of cuneiform texts.
+        link: https://en.wikipedia.org/wiki/Ashurbanipal
+        index: -668
+    lastUpdated: "2024-07-20"
+
+  - from: -600
+    to: -501
+    events:
       - title: Introduction of Coinage
         id: introduction-of-coinage
         description: >-
@@ -425,54 +460,6 @@ Timeline:
           monetary economies in ancient civilizations.
         link: https://en.wikipedia.org/wiki/Lydian_coinage
         index: -600
-    lastUpdated: "2024-07-20"
-  - from: -700
-    to: -601
-    events:
-      - title: Rise of the Medes
-        id: rise-of-the-medes
-        description: >-
-          The Medes, an ancient Iranian people, established their dominance in
-          the region that is now northern Iran, becoming a significant power in
-          the ancient Near East.
-        link: https://en.wikipedia.org/wiki/Medes
-        index: -678
-      - title: Foundation of the Kingdom of Lydia
-        id: foundation-of-the-kingdom-of-lydia
-        description: >-
-          The Kingdom of Lydia was established in the early 7th century BC in
-          western Anatolia, and it became renowned for its rich deposits of gold
-          and silver.
-        link: https://en.wikipedia.org/wiki/Lydia
-        index: -680
-      - title: Construction of the Ishtar Gate
-        id: construction-of-the-ishtar-gate
-        description: >-
-          The Ishtar Gate, one of the most famous structures of ancient Babylon,
-          was constructed under the reign of King Nebuchadnezzar II and became
-          an iconic symbol of Babylonian art and architecture.
-        link: https://en.wikipedia.org/wiki/Ishtar_Gate
-        index: -575
-      - title: Development of Zoroastrianism
-        id: development-of-zoroastrianism
-        description: >-
-          Zoroastrianism, one of the world's oldest monotheistic religions,
-          developed during this period in ancient Iran, founded by the prophet
-          Zoroaster.
-        link: https://en.wikipedia.org/wiki/Zoroastrianism
-        index: -600
-      - title: First Use of Iron Weapons
-        id: first-use-of-iron-weapons
-        description: >-
-          The transition from bronze to iron weaponry began in this era,
-          revolutionizing military technology and giving rise to the term "Iron
-          Age."
-        link: https://en.wikipedia.org/wiki/Iron_Age
-        index: -650
-    lastUpdated: "2024-07-20"
-  - from: -600
-    to: -501
-    events:
       - title: Construction of the Hanging Gardens of Babylon
         id: construction-of-the-hanging-gardens-of-babylon
         description: >-
@@ -499,25 +486,16 @@ Timeline:
           society and government, shaping East Asian cultures and philosophies.
         link: https://en.wikipedia.org/wiki/Confucianism
         index: -500
-      - title: First Buddhist Teachings
-        id: first-buddhist-teachings
+      - title: Establishment of the Roman Republic
+        id: establishment-of-the-roman-republic
         description: >-
-          The first teachings of Siddhartha Gautama, the Buddha, marked the
-          beginning of Buddhism. These teachings include the Four Noble Truths
-          and the Eightfold Path, offering a guide for leading a life aimed at
-          achieving enlightenment.
-        link: https://en.wikipedia.org/wiki/Buddhism
-        index: -528
-      - title: Reforms of Cleisthenes in Athens
-        id: reforms-of-cleisthenes-in-athens
-        description: >-
-          Cleisthenes, an Athenian statesman, introduced foundational democratic
-          reforms around 508 BC. His changes to the political structure of
-          Athens enhanced citizen participation and laid the groundwork for
-          Athenian democracy.
-        link: https://en.wikipedia.org/wiki/Cleisthenes
-        index: -508
+          The Roman Republic was established in 509 BC, following the overthrow
+          of the Roman Kingdom. This event marked the beginning of a new system
+          of government that lasted until the rise of the Roman Empire.
+        link: https://en.wikipedia.org/wiki/Roman_Republic
+        index: -509
     lastUpdated: "2024-07-20"
+
   - from: -500
     to: -401
     events:
@@ -529,6 +507,15 @@ Timeline:
           forces.
         link: https://en.wikipedia.org/wiki/Battle_of_Marathon
         index: -490
+      - title: Construction of the Acropolis in Athens
+        id: construction-of-the-acropolis-in-athens
+        description: >-
+          The Acropolis, a significant ancient Athenian landmark, saw major
+          construction around 447 BC. It includes buildings such as the
+          Parthenon, a monument reflecting the glory and cultural achievements
+          of Classical Greece.
+        link: https://en.wikipedia.org/wiki/Acropolis_of_Athens
+        index: -447
       - title: Construction of the Parthenon
         id: construction-of-the-parthenon
         description: >-
@@ -545,14 +532,7 @@ Timeline:
           during the Roman Republic.
         link: https://en.wikipedia.org/wiki/Roman_Senate
         index: -509
-      - title: Rise of the Maurya Empire
-        id: rise-of-the-maurya-empire
-        description: >-
-          The Maurya Empire, established around 322 BC by Chandragupta Maurya,
-          marked the beginning of a powerful and extensive Indian empire that
-          influenced the region significantly.
-        link: https://en.wikipedia.org/wiki/Maurya_Empire
-        index: -322
+
       - title: Philosophical Teachings of Socrates
         id: philosophical-teachings-of-socrates
         description: >-
@@ -565,6 +545,14 @@ Timeline:
   - from: -400
     to: -301
     events:
+      - title: Rise of the Maurya Empire
+        id: rise-of-the-maurya-empire
+        description: >-
+          The Maurya Empire, established around 322 BC by Chandragupta Maurya,
+          marked the beginning of a powerful and extensive Indian empire that
+          influenced the region significantly.
+        link: https://en.wikipedia.org/wiki/Maurya_Empire
+        index: -322
       - title: Conquests of Alexander the Great
         id: conquests-of-alexander-the-great
         description: >-
@@ -583,24 +571,6 @@ Timeline:
           art, science, and philosophy.
         link: https://en.wikipedia.org/wiki/Hellenistic_period
         index: -323
-      - title: Foundation of the Library of Alexandria
-        id: foundation-of-the-library-of-alexandria
-        description: >-
-          The Library of Alexandria, commonly known as the greatest library of
-          the ancient world, was established by Ptolemy I or II in Alexandria,
-          Egypt. It became a major center of learning and scholarship in the
-          Hellenistic world.
-        link: https://en.wikipedia.org/wiki/Library_of_Alexandria
-        index: -295
-      - title: Construction of the Great Wall of China
-        id: construction-of-the-great-wall-of-china
-        description: >-
-          The construction of the Great Wall of China began under the Qin
-          Dynasty to protect against raids and invasions from northern nomadic
-          tribes. The wall was built over several dynasties and continues to
-          stand as a symbol of China’s strength and resilience.
-        link: https://en.wikipedia.org/wiki/Great_Wall_of_China
-        index: -221
       - title: Philosophical Teachings of Aristotle
         id: philosophical-teachings-of-aristotle
         description: >-
@@ -610,10 +580,25 @@ Timeline:
           the foundation for much of Western philosophy and science.
         link: https://en.wikipedia.org/wiki/Aristotle
         index: -384
+      - title: The Battle of Chaeronea
+        id: the-battle-of-chaeronea
+        description: >-
+          The Battle of Chaeronea in 338 BC was a decisive conflict where Philip II of Macedon and his son Alexander the Great defeated the Greek city-states of Athens and Thebes, leading to the unification of Greece under Macedonian rule.
+        link: https://en.wikipedia.org/wiki/Battle_of_Chaeronea_(338_BC)
+        index: -338
     lastUpdated: "2024-07-20"
   - from: -300
     to: -201
     events:
+      - title: Foundation of the Library of Alexandria
+        id: foundation-of-the-library-of-alexandria
+        description: >-
+          The Library of Alexandria, commonly known as the greatest library of
+          the ancient world, was established by Ptolemy I or II in Alexandria,
+          Egypt. It became a major center of learning and scholarship in the
+          Hellenistic world.
+        link: https://en.wikipedia.org/wiki/Library_of_Alexandria
+        index: -295
       - title: Rise of the Roman Empire
         id: rise-of-the-roman-empire
         description: >-
@@ -631,15 +616,15 @@ Timeline:
           to celebrate its successful defense against a siege.
         link: https://en.wikipedia.org/wiki/Colossus_of_Rhodes
         index: -280
-      - title: Development of the Han Dynasty
-        id: development-of-the-han-dynasty
+      - title: Construction of the Great Wall of China
+        id: construction-of-the-great-wall-of-china
         description: >-
-          The Han Dynasty, established after the fall of the short-lived Qin
-          Dynasty, was a significant period in Chinese history marked by
-          economic prosperity, cultural development, and significant
-          advancements in technology and trade.
-        link: https://en.wikipedia.org/wiki/Han_dynasty
-        index: -202
+          The construction of the Great Wall of China began under the Qin
+          Dynasty to protect against raids and invasions from northern nomadic
+          tribes. The wall was built over several dynasties and continues to
+          stand as a symbol of China’s strength and resilience.
+        link: https://en.wikipedia.org/wiki/Great_Wall_of_China
+        index: -221
       - title: Establishment of the Silk Road
         id: establishment-of-the-silk-road
         description: >-
@@ -649,55 +634,20 @@ Timeline:
           it connected.
         link: https://en.wikipedia.org/wiki/Silk_Road
         index: -200
-      - title: First Punic War
-        id: first-punic-war
-        description: >-
-          The First Punic War was a significant conflict between the Roman
-          Republic and Carthage, lasting from 264 to 241 BC, that marked the
-          beginning of the Roman Republic's expansion outside the Italian
-          Peninsula.
-        link: https://en.wikipedia.org/wiki/First_Punic_War
-        index: -264
     lastUpdated: "2024-07-20"
+
   - from: -200
     to: -101
     events:
-      - title: Construction of the Terracotta Army
-        id: construction-of-the-terracotta-army
+      - title: Development of the Han Dynasty
+        id: development-of-the-han-dynasty
         description: >-
-          The Terracotta Army is a collection of terracotta sculptures depicting
-          the armies of Qin Shi Huang, the first Emperor of China. It was
-          constructed to protect the emperor in his afterlife and was discovered
-          in 1974 by local farmers in Xi'an, Shaanxi province.
-        link: https://en.wikipedia.org/wiki/Terracotta_Army
-        index: -210
-      - title: Reign of Cleopatra VII
-        id: reign-of-cleopatra-vii
-        description: >-
-          Cleopatra VII was the last active ruler of the Ptolemaic Kingdom of
-          Egypt. Known for her intelligence, political acumen, and romantic
-          liaisons with prominent Roman figures, she played a significant role
-          in the political landscape of the Mediterranean during her reign.
-        link: https://en.wikipedia.org/wiki/Cleopatra
-        index: -51
-      - title: First Census in China
-        id: first-census-in-china
-        description: >-
-          The first known census in China was conducted during the Western Han
-          Dynasty in 2 AD. It recorded approximately 57.5 million people. This
-          large-scale population counting helped the Han government to
-          consolidate its control over the vast empire.
-        link: https://en.wikipedia.org/wiki/Census_in_China
-        index: -2
-      - title: Spread of Christianity
-        id: spread-of-christianity
-        description: >-
-          Christianity began to spread throughout the Roman Empire during the
-          1st century AD, following the teachings of Jesus of Nazareth. It
-          gradually grew from a small Jewish sect into a major world religion
-          despite periods of persecution.
-        link: https://en.wikipedia.org/wiki/Spread_of_Christianity
-        index: -30
+          The Han Dynasty, established after the fall of the short-lived Qin
+          Dynasty, was a significant period in Chinese history marked by
+          economic prosperity, cultural development, and significant
+          advancements in technology and trade.
+        link: https://en.wikipedia.org/wiki/Han_dynasty
+        index: -202
       - title: Battle of Zama
         id: battle-of-zama
         description: >-
@@ -707,10 +657,46 @@ Timeline:
           army led by Hannibal, leading to a Roman victory.
         link: https://en.wikipedia.org/wiki/Battle_of_Zama
         index: -202
+      - title: Establishment of the Greco-Bactrian Kingdom
+        id: establishment-of-the-greco-bactrian-kingdom
+        description: >-
+          The Greco-Bactrian Kingdom was established around -256 BCE when Diodotus, the Greek governor of Bactria, declared independence from the Seleucid Empire. This kingdom played a significant role in the spread of Hellenistic culture into Central Asia.
+        link: https://en.wikipedia.org/wiki/Greco-Bactrian_Kingdom
+        index: -256
+      - title: Reign of Eumenes II of Pergamon
+        id: reign-of-eumenes-ii-of-pergamon
+        description: >-
+          Eumenes II reigned over Pergamon from -197 to -159 BCE, enhancing its cultural and scholarly institutions, notably the Library of Pergamon. His era marked significant developments in Hellenistic art and diplomacy.
+        link: https://en.wikipedia.org/wiki/Eumenes_II
+        index: -197
+      - title: Construction of the Altar of Pergamon
+        id: construction-of-the-altar-of-pergamon
+        description: >-
+          Built during the reign of Eumenes II around -180 BCE, the Altar of Pergamon is a monumental construction renowned for its detailed frieze depicting the Gigantomachy. It exemplifies the artistic achievements of the Hellenistic period.
+        link: https://en.wikipedia.org/wiki/Pergamon_Altar
+        index: -180
     lastUpdated: "2024-07-20"
   - from: -100
     to: -1
     events:
+      - title: Reign of Cleopatra VII
+        id: reign-of-cleopatra-vii
+        description: >-
+          Cleopatra VII was the last active ruler of the Ptolemaic Kingdom of
+          Egypt. Known for her intelligence, political acumen, and romantic
+          liaisons with prominent Roman figures, she played a significant role
+          in the political landscape of the Mediterranean during her reign.
+        link: https://en.wikipedia.org/wiki/Cleopatra
+        index: -51
+      - title: Development of the Julian Calendar
+        id: development-of-the-julian-calendar
+        description: >-
+          The Julian calendar was introduced by Julius Caesar in 45 BC,
+          reforming the Roman calendar system. It took effect in 46 BC, and
+          remained in use until the Gregorian calendar was introduced in 1582.
+          It was designed to approximate the solar year.
+        link: https://en.wikipedia.org/wiki/Julian_calendar
+        index: -45
       - title: Julius Caesar's Assassination
         id: assassination-of-julius-caesar
         description: >-
@@ -728,14 +714,6 @@ Timeline:
           consolidation of power.
         link: https://en.wikipedia.org/wiki/Roman_Empire
         index: -27
-      - title: Construction of the Pont du Gard
-        id: construction-pont-du-gard
-        description: >-
-          The Pont du Gard is an ancient Roman aqueduct bridge built in the
-          first century AD, located in the South of France. It is an engineering
-          marvel that provided water to the Roman colony of Nemausus (Nîmes).
-        link: https://en.wikipedia.org/wiki/Pont_du_Gard
-        index: -19
       - title: Birth of Jesus Christ
         id: birth-of-jesus-christ
         description: >-
@@ -744,19 +722,28 @@ Timeline:
           as Christmas and marked the beginning of the Christian era.
         link: https://en.wikipedia.org/wiki/Jesus
         index: -4
-      - title: Development of the Gregorian Calendar
-        id: development-gregorian-calendar
-        description: >-
-          The Gregorian calendar was adopted in 1582 AD, reforming the Julian
-          calendar to better align with the solar year. The change was
-          implemented by Pope Gregory XIII and is the calendar most widely used
-          today.
-        link: https://en.wikipedia.org/wiki/Gregorian_calendar
-        index: -6
+
     lastUpdated: "2024-07-20"
   - from: 1
     to: 100
     events:
+      - title: First Census in China
+        id: first-census-in-china
+        description: >-
+          The first known census in China was conducted during the Western Han
+          Dynasty in 2 AD. It recorded approximately 57.5 million people. This
+          large-scale population counting helped the Han government to
+          consolidate its control over the vast empire.
+        link: https://en.wikipedia.org/wiki/Census_in_China
+        index: 2
+      - title: Construction of the Pont du Gard
+        id: construction-pont-du-gard
+        description: >-
+          The Pont du Gard is an ancient Roman aqueduct bridge built in the
+          first century AD, located in the South of France. It is an engineering
+          marvel that provided water to the Roman colony of Nemausus (Nîmes).
+        link: https://en.wikipedia.org/wiki/Pont_du_Gard
+        index: -19
       - title: Construction of the Colosseum
         id: construction-of-the-colosseum
         description: >-
@@ -766,15 +753,6 @@ Timeline:
           used for gladiatorial contests and public spectacles.
         link: https://en.wikipedia.org/wiki/Colosseum
         index: 72
-      - title: Development of the Julian Calendar
-        id: development-of-the-julian-calendar
-        description: >-
-          The Julian calendar was introduced by Julius Caesar in 45 BC,
-          reforming the Roman calendar system. It took effect in 46 BC, and
-          remained in use until the Gregorian calendar was introduced in 1582.
-          It was designed to approximate the solar year.
-        link: https://en.wikipedia.org/wiki/Julian_calendar
-        index: -45
       - title: Spread of Christianity
         id: spread-of-christianity
         description: >-
@@ -785,15 +763,7 @@ Timeline:
           the Roman Empire.
         link: https://en.wikipedia.org/wiki/Spread_of_Christianity
         index: 30
-      - title: Reign of Emperor Augustus
-        id: reign-of-emperor-augustus
-        description: >-
-          Augustus, also known as Octavian, was the first Roman emperor,
-          reigning from 27 BC until his death in AD 14. His reign marked the
-          beginning of the Pax Romana, a period of relative peace and stability
-          throughout the Roman Empire.
-        link: https://en.wikipedia.org/wiki/Augustus
-        index: -27
+
       - title: Destruction of Pompeii
         id: destruction-of-pompeii
         description: >-
@@ -855,29 +825,6 @@ Timeline:
   - from: 201
     to: 300
     events:
-      - title: Establishment of the Gupta Empire
-        id: establishment-of-the-gupta-empire
-        description: >-
-          The Gupta Empire, founded by Sri Gupta, marked the beginning of a
-          golden age in ancient India with advancements in science, art, and
-          literature.
-        link: https://en.wikipedia.org/wiki/Gupta_Empire
-        index: 240
-      - title: Division of the Roman Empire
-        id: division-of-the-roman-empire
-        description: >-
-          The Roman Empire was divided into the Western Roman Empire and the
-          Eastern Roman Empire (Byzantine Empire), laying the groundwork for
-          medieval Europe.
-        link: https://en.wikipedia.org/wiki/Division_of_the_Roman_Empire
-        index: 285
-      - title: Construction of the Arch of Constantine
-        id: construction-of-the-arch-of-constantine
-        description: >-
-          The Arch of Constantine was erected in Rome to commemorate Emperor
-          Constantine I's victory at the Battle of Milvian Bridge.
-        link: https://en.wikipedia.org/wiki/Arch_of_Constantine
-        index: 315
       - title: Spread of Christianity in the Roman Empire
         id: spread-of-christianity-in-the-roman-empire
         description: >-
@@ -894,6 +841,24 @@ Timeline:
           and astronomy.
         link: https://en.wikipedia.org/wiki/Maya_civilization
         index: 250
+      - title: Crisis of the Third Century
+        id: crisis-of-the-third-century
+        description: >-
+          The Roman Empire faced a period known as the Crisis of the Third Century, characterized by political instability, economic decline, and external threats, which nearly caused its collapse.
+        link: https://en.wikipedia.org/wiki/Crisis_of_the_Third_Century
+        index: 235
+      - title: Reign of Emperor Diocletian
+        id: reign-of-emperor-diocletian
+        description: >-
+          Emperor Diocletian ruled the Roman Empire from 284 to 305 AD, known for his substantial administrative, economic, and military reforms aimed at recovering the empire from decay.
+        link: https://en.wikipedia.org/wiki/Diocletian
+        index: 284
+      - title: Construction of the Library of Celsus
+        id: construction-of-the-library-of-celsus
+        description: >-
+          The Library of Celsus, an ancient Roman building in Ephesus, was completed in 270 AD, serving as both a library and the tomb of Senator Tiberius Julius Celsus Polemaeanus.
+        link: https://en.wikipedia.org/wiki/Library_of_Celsus
+        index: 270
     lastUpdated: "2024-07-20"
   - from: 301
     to: 400
@@ -906,6 +871,13 @@ Timeline:
           Constantinople as the new capital.
         link: https://en.wikipedia.org/wiki/Constantine_the_Great
         index: 306
+      - title: Construction of the Arch of Constantine
+        id: construction-of-the-arch-of-constantine
+        description: >-
+          The Arch of Constantine was erected in Rome to commemorate Emperor
+          Constantine I's victory at the Battle of Milvian Bridge.
+        link: https://en.wikipedia.org/wiki/Arch_of_Constantine
+        index: 315
       - title: Foundation of Constantinople
         id: foundation-of-constantinople
         description: >-
@@ -922,22 +894,14 @@ Timeline:
           and changes to Buddhist practices and philosophies.
         link: https://en.wikipedia.org/wiki/Mahayana
         index: 320
-      - title: Construction of the Great Stupa at Sanchi
-        id: construction-of-the-great-stupa-at-sanchi
+      - title: Division of the Roman Empire
+        id: division-of-the-roman-empire
         description: >-
-          The Great Stupa at Sanchi is a major Buddhist monument built under the
-          patronage of Emperor Ashoka. This period saw further enhancements and
-          decorations made to the stupa.
-        link: https://en.wikipedia.org/wiki/Sanchi
-        index: -268
-      - title: Development of the Code of Justinian
-        id: development-of-the-code-of-justinian
-        description: >-
-          The Code of Justinian was developed under the direction of Byzantine
-          Emperor Justinian I. It reorganized and codified existing Roman laws,
-          influencing many modern legal systems.
-        link: https://en.wikipedia.org/wiki/Corpus_Juris_Civilis
-        index: 529
+          The Roman Empire was divided into the Western Roman Empire and the
+          Eastern Roman Empire (Byzantine Empire), laying the groundwork for
+          medieval Europe.
+        link: https://en.wikipedia.org/wiki/Division_of_the_Roman_Empire
+        index: 395
     lastUpdated: "2024-07-20"
   - from: 401
     to: 500
@@ -969,7 +933,37 @@ Timeline:
           the foundation for the eventual dominance of Christianity in the
           Western world.
         link: https://en.wikipedia.org/wiki/History_of_Christianity
-        index: 5
+        index: 410
+      - title: Codification of the Theodosian Code
+        id: codification-of-the-theodosian-code
+        description: >-
+          The Theodosian Code, a compilation of the laws of the Roman Empire
+          under the Christian emperors since 312 AD, was codified in 438 AD. This
+          legal codex influenced the development of medieval legal systems in
+          Europe.
+        link: https://en.wikipedia.org/wiki/Theodosian_Code
+        index: 438
+      - title: Founding of the Franks Kingdom
+        id: founding-of-the-franks-kingdom
+        description: >-
+          The Kingdom of the Franks was established by the Merovingian dynasty
+          in the late 5th century. This marked the rise of a powerful new
+          political entity in what is now France and parts of Germany, which
+          played a crucial role in the history of Europe during the Middle Ages.
+        link: https://en.wikipedia.org/wiki/Franks
+        index: 481
+    lastUpdated: "2024-07-20"
+  - from: 501
+    to: 600
+    events:
+      - title: Development of the Code of Justinian
+        id: development-of-the-code-of-justinian
+        description: >-
+          The Code of Justinian was developed under the direction of Byzantine
+          Emperor Justinian I. It reorganized and codified existing Roman laws,
+          influencing many modern legal systems.
+        link: https://en.wikipedia.org/wiki/Corpus_Juris_Civilis
+        index: 529
       - title: Construction of the Hagia Sophia
         id: construction-of-the-hagia-sophia
         description: >-
@@ -979,19 +973,6 @@ Timeline:
           considered a masterpiece of Byzantine architecture.
         link: https://en.wikipedia.org/wiki/Hagia_Sophia
         index: 537
-      - title: Development of Feudalism
-        id: development-of-feudalism
-        description: >-
-          The system of feudalism began to develop in Europe during this period,
-          characterized by the exchange of land for military service and labor.
-          This societal structure became the dominant system in medieval Europe,
-          influencing the political and social landscape.
-        link: https://en.wikipedia.org/wiki/Feudalism
-        index: 500
-    lastUpdated: "2024-07-20"
-  - from: 501
-    to: 600
-    events:
       - title: Foundation of the Sui Dynasty
         id: foundation-of-the-sui-dynasty
         description: >-
@@ -1010,15 +991,18 @@ Timeline:
           Justinian, a foundational legal text.
         link: https://en.wikipedia.org/wiki/Justinian_I
         index: 527
-      - title: Spread of Islam
-        id: spread-of-islam
+      - title: Introduction of Buddhism to Japan
+        id: introduction-of-buddhism-to-japan
         description: >-
-          Following the death of Prophet Muhammad in 632 AD, Islam rapidly
-          expanded beyond the Arabian Peninsula. Within a century, it had spread
-          across the Middle East, North Africa, and parts of Europe,
-          significantly shaping global culture and geopolitics.
-        link: https://en.wikipedia.org/wiki/Spread_of_Islam
-        index: 632
+          Buddhism was officially introduced to Japan from the Korean kingdom of Baekje in 538 AD.
+          This event had a profound impact on Japanese culture, art, and philosophy.
+        link: https://en.wikipedia.org/wiki/History_of_Buddhism_in_Japan
+        index: 538
+
+    lastUpdated: "2024-07-20"
+  - from: 601
+    to: 700
+    events:
       - title: Construction of the Grand Canal in China
         id: construction-of-the-grand-canal-in-china
         description: >-
@@ -1028,19 +1012,15 @@ Timeline:
           China.
         link: https://en.wikipedia.org/wiki/Grand_Canal_(China)
         index: 609
-      - title: Development of the Code of Justinian
-        id: development-of-the-code-of-justinian
+      - title: Spread of Islam
+        id: spread-of-islam
         description: >-
-          Also known as Corpus Juris Civilis, the Code of Justinian was
-          developed under the order of Emperor Justinian I between 529–534 AD.
-          It systematized Roman law and greatly influenced the legal systems of
-          many modern European nations.
-        link: https://en.wikipedia.org/wiki/Corpus_Juris_Civilis
-        index: 529
-    lastUpdated: "2024-07-20"
-  - from: 601
-    to: 700
-    events:
+          Following the death of Prophet Muhammad in 632 AD, Islam rapidly
+          expanded beyond the Arabian Peninsula. Within a century, it had spread
+          across the Middle East, North Africa, and parts of Europe,
+          significantly shaping global culture and geopolitics.
+        link: https://en.wikipedia.org/wiki/Spread_of_Islam
+        index: 632
       - title: Expansion of the Umayyad Caliphate
         id: expansion-of-the-umayyad-caliphate
         description: >-
@@ -1065,26 +1045,18 @@ Timeline:
           fall of the Sui Dynasty.
         link: https://en.wikipedia.org/wiki/Tang_Dynasty
         index: 618
-      - title: Development of the Mayan Calendar
-        id: development-of-the-mayan-calendar
-        description: >-
-          The Mayan calendar, renowned for its complexity and accuracy,
-          continued to develop during this period, showcasing the advanced
-          understanding of astronomy and mathematics by the Mayan civilization.
-        link: https://en.wikipedia.org/wiki/Maya_calendar
-        index: 650
-      - title: Foundation of the Kingdom of Srivijaya
-        id: foundation-of-the-kingdom-of-srivijaya
-        description: >-
-          The Kingdom of Srivijaya, a powerful maritime empire based on the
-          island of Sumatra, was founded around the 7th century and became a
-          significant center for trade and Buddhism in Southeast Asia.
-        link: https://en.wikipedia.org/wiki/Srivijaya
-        index: 650
     lastUpdated: "2024-07-20"
   - from: 701
     to: 800
     events:
+      - title: Rise of the Abbasid Caliphate
+        id: rise-of-the-abbasid-caliphate
+        description: >-
+          The Abbasid Caliphate, which succeeded the Umayyad Caliphate, played a
+          crucial role in the Islamic Golden Age by fostering developments in
+          science, culture, and trade during their reign.
+        link: https://en.wikipedia.org/wiki/Abbasid_Caliphate
+        index: 750
       - title: Reign of Charlemagne
         id: reign-of-charlemagne
         description: >-
@@ -1102,14 +1074,6 @@ Timeline:
           the active promotion by the ruling class.
         link: https://en.wikipedia.org/wiki/History_of_Buddhism_in_Japan
         index: 752
-      - title: Construction of the Borobudur Temple
-        id: construction-of-the-borobudur-temple
-        description: >-
-          The Borobudur Temple, a massive Mahayana Buddhist temple, was
-          constructed in Central Java, Indonesia. It is famously known for its
-          intricate carvings and as a pilgrimage destination.
-        link: https://en.wikipedia.org/wiki/Borobudur
-        index: 825
       - title: Foundation of Baghdad
         id: foundation-of-baghdad
         description: >-
@@ -1132,14 +1096,24 @@ Timeline:
   - from: 801
     to: 900
     events:
-      - title: Rise of the Abbasid Caliphate
-        id: rise-of-the-abbasid-caliphate
+      - title: Development of Feudalism
+        id: development-of-feudalism
         description: >-
-          The Abbasid Caliphate, which succeeded the Umayyad Caliphate, played a
-          crucial role in the Islamic Golden Age by fostering developments in
-          science, culture, and trade during their reign.
-        link: https://en.wikipedia.org/wiki/Abbasid_Caliphate
-        index: 750
+          The system of feudalism began to develop in Europe during this period,
+          characterized by the exchange of land for military service and labor.
+          This societal structure became the dominant system in medieval Europe,
+          influencing the political and social landscape.
+        link: https://en.wikipedia.org/wiki/Feudalism
+        index: 800
+      - title: Rise of the Khmer Empire
+        id: rise-of-the-khmer-empire
+        description: >-
+          The Khmer Empire, founded around 802 AD, rose to prominence as one of
+          Southeast Asia's most powerful civilizations, renowned for its
+          architectural achievements such as Angkor Wat and its sophisticated
+          water management systems.
+        link: https://en.wikipedia.org/wiki/Khmer_Empire
+        index: 802
       - title: Viking Invasions in Europe
         id: viking-invasions-in-europe
         description: >-
@@ -1156,14 +1130,6 @@ Timeline:
           mosque, symbolizing the Islamic influence in Spain.
         link: https://en.wikipedia.org/wiki/Mosque%E2%80%93Cathedral_of_C%C3%B3rdoba
         index: 784
-      - title: Development of the Feudal System
-        id: development-of-the-feudal-system
-        description: >-
-          The Feudal System, a hierarchical system of land ownership and
-          obligations, evolved during this period, shaping the social,
-          political, and economic structures of Medieval Europe.
-        link: https://en.wikipedia.org/wiki/Feudalism
-        index: 800
       - title: Foundation of the University of al-Qarawiyyin
         id: foundation-of-the-university-of-al-qarawiyyin
         description: >-
@@ -1254,15 +1220,15 @@ Timeline:
           and Middle Eastern history.
         link: https://en.wikipedia.org/wiki/Crusades
         index: 1096
-      - title: Rise of the Khmer Empire
-        id: rise-of-the-khmer-empire
+      - title: Compilation of the Domesday Book
+        id: compilation-of-the-domesday-book
         description: >-
-          The Khmer Empire, founded around 802 AD, rose to prominence as one of
-          Southeast Asia's most powerful civilizations, renowned for its
-          architectural achievements such as Angkor Wat and its sophisticated
-          water management systems.
-        link: https://en.wikipedia.org/wiki/Khmer_Empire
-        index: 802
+          The Domesday Book, compiled in 1086, was a survey ordered by William
+          the Conqueror to assess the extent of the land and resources being
+          owned in England, mainly for tax collection purposes. It offers
+          invaluable information about the social structure of medieval England.
+        link: https://en.wikipedia.org/wiki/Domesday_Book
+        index: 1086
     lastUpdated: "2024-07-20"
   - from: 1101
     to: 1200
@@ -1275,14 +1241,6 @@ Timeline:
           to the Hindu god Vishnu, it later became a Buddhist temple.
         link: https://en.wikipedia.org/wiki/Angkor_Wat
         index: 1122
-      - title: Rise of the Mongol Empire
-        id: rise-of-the-mongol-empire
-        description: >-
-          The Mongol Empire, founded by Genghis Khan in the early 13th century,
-          rapidly expanded to become the largest contiguous empire in history,
-          stretching from Europe to Asia.
-        link: https://en.wikipedia.org/wiki/Mongol_Empire
-        index: 1206
       - title: Development of Gothic Architecture
         id: development-of-gothic-architecture
         description: >-
@@ -1301,19 +1259,36 @@ Timeline:
           worldwide.
         link: https://en.wikipedia.org/wiki/University_of_Paris
         index: 1150
-      - title: Spread of the Black Death
-        id: spread-of-the-black-death
+      - title: Second Crusade
+        id: second-crusade
         description: >-
-          The Black Death, one of the deadliest pandemics in human history,
-          ravaged Europe in the mid-14th century, killing an estimated 75-200
-          million people and drastically altering the course of European
-          history.
-        link: https://en.wikipedia.org/wiki/Black_Death
-        index: 1347
+          The Second Crusade was launched from Europe in 1147, prompted by the
+          fall of the County of Edessa the previous year. It was a major
+          expedition aimed at strengthening Christian positions in the Holy Land
+          and saw significant involvement from European monarchies.
+        link: https://en.wikipedia.org/wiki/Second_Crusade
+        index: 1147
+      - title: Rise of the Guelphs and Ghibellines
+        id: rise-of-the-guelphs-and-ghibellines
+        description: >-
+          The conflict between the Guelphs and Ghibellines began to emerge in
+          Italy during the 12th century. These factions represented the pro-Papal
+          and pro-Imperial forces in the Italian city-states, significantly
+          affecting the politics and social structure of medieval Italy.
+        link: https://en.wikipedia.org/wiki/Guelphs_and_Ghibellines
+        index: 1155
     lastUpdated: "2024-07-20"
   - from: 1201
     to: 1300
     events:
+      - title: Rise of the Mongol Empire
+        id: rise-of-the-mongol-empire
+        description: >-
+          The Mongol Empire, founded by Genghis Khan in the early 13th century,
+          rapidly expanded to become the largest contiguous empire in history,
+          stretching from Europe to Asia.
+        link: https://en.wikipedia.org/wiki/Mongol_Empire
+        index: 1206
       - title: Magna Carta Signed
         id: magna-carta-signed
         description: >-
@@ -1339,14 +1314,6 @@ Timeline:
           most iconic examples of French Gothic architecture.
         link: https://en.wikipedia.org/wiki/Notre-Dame_de_Paris
         index: 1163
-      - title: Development of the Hanseatic League
-        id: development-of-the-hanseatic-league
-        description: >-
-          The Hanseatic League was a commercial and defensive confederation of
-          merchant guilds and market towns in Northwestern and Central Europe,
-          rising in power during the 13th century.
-        link: https://en.wikipedia.org/wiki/Hanseatic_League
-        index: 1356
       - title: Rise of the Mali Empire
         id: rise-of-the-mali-empire
         description: >-
@@ -1359,6 +1326,15 @@ Timeline:
   - from: 1301
     to: 1400
     events:
+      - title: Spread of the Black Death
+        id: spread-of-the-black-death
+        description: >-
+          The Black Death, one of the deadliest pandemics in human history,
+          ravaged Europe in the mid-14th century, killing an estimated 75-200
+          million people and drastically altering the course of European
+          history.
+        link: https://en.wikipedia.org/wiki/Black_Death
+        index: 1347
       - title: Renaissance Begins in Italy
         id: renaissance-begins-in-italy
         description: >-
@@ -1386,14 +1362,6 @@ Timeline:
           a cathedral complex.
         link: https://en.wikipedia.org/wiki/Moscow_Kremlin
         index: 1366
-      - title: Spread of the Black Death
-        id: spread-of-the-black-death
-        description: >-
-          The Black Death was a devastating global epidemic of bubonic plague
-          that struck Europe and Asia in the mid-1300s. The plague arrived in
-          Europe in 1347 and killed an estimated 25 million people.
-        link: https://en.wikipedia.org/wiki/Black_Death
-        index: 1347
       - title: Development of the Hundred Years' War
         id: development-of-the-hundred-years-war
         description: >-
@@ -1477,15 +1445,6 @@ Timeline:
           world and a significant work of Renaissance and Baroque architecture.
         link: https://en.wikipedia.org/wiki/St._Peter%27s_Basilica
         index: 1506
-      - title: Age of Exploration
-        id: age-of-exploration
-        description: >-
-          The Age of Exploration was a period from the 15th to 17th centuries
-          during which European powers explored and mapped the world, leading to
-          the discovery of new lands and trade routes, significantly impacting
-          global history.
-        link: https://en.wikipedia.org/wiki/Age_of_Discovery
-        index: 1492
       - title: Development of the Scientific Revolution
         id: development-of-the-scientific-revolution
         description: >-
@@ -1495,6 +1454,15 @@ Timeline:
           chemistry transformed views of society and nature.
         link: https://en.wikipedia.org/wiki/Scientific_Revolution
         index: 1543
+      - title: Development of the Gregorian Calendar
+        id: development-gregorian-calendar
+        description: >-
+          The Gregorian calendar was adopted in 1582 AD, reforming the Julian
+          calendar to better align with the solar year. The change was
+          implemented by Pope Gregory XIII and is the calendar most widely used
+          today.
+        link: https://en.wikipedia.org/wiki/Gregorian_calendar
+        index: 1582
     lastUpdated: "2024-07-20"
   - from: 1601
     to: 1700
@@ -1508,6 +1476,7 @@ Timeline:
           United States.
         link: https://en.wikipedia.org/wiki/Jamestown,_Virginia
         index: 1607
+
       - title: Construction of the Taj Mahal
         id: construction-of-the-taj-mahal
         description: >-
@@ -1557,15 +1526,6 @@ Timeline:
           America.
         link: https://en.wikipedia.org/wiki/American_Revolution
         index: 1775
-      - title: Construction of the Palace of Versailles
-        id: construction-of-the-palace-of-versailles
-        description: >-
-          The construction of the Palace of Versailles was continued under the
-          reign of Louis XIV, turning it into a symbol of the absolute monarchy
-          of the Ancien Régime and one of the most magnificent palaces in the
-          world.
-        link: https://en.wikipedia.org/wiki/Palace_of_Versailles
-        index: 1682
       - title: French Revolution
         id: french-revolution
         description: >-
@@ -1593,6 +1553,15 @@ Timeline:
         link: >-
           https://en.wikipedia.org/wiki/History_of_the_United_States_Constitution
         index: 1787
+      - title: Invention of the Steam Engine
+        id: invention-of-the-steam-engine
+        description: >-
+          The invention of the steam engine was a pivotal development in the
+          Industrial Revolution. Thomas Newcomen designed the first practical and
+          operational steam engine in 1712, which was later improved by James Watt
+          in the mid-18th century.
+        link: https://en.wikipedia.org/wiki/Steam_engine
+        index: 1712
     lastUpdated: "2024-07-20"
   - from: 1801
     to: 1900
