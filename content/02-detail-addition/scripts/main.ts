@@ -103,7 +103,7 @@ function makePrompt(yaml: string): string {
 The data to add is:
 - id // slug of the title
 - description // short description about the event (around 300 characters)
-- link // link to a reputable source
+- link // link to a Wikipedia page that describes the event
 - index // approximate year of the event (negative number for BC)
 
 Here is the yaml file:

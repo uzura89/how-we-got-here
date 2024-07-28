@@ -8,7 +8,6 @@ export interface EventType {
   description: string; // around 300 characters
   link: string; // link to a Wikipedia page
   index: number; // approximate year of the event (negative number for BC)
-  source: string; // link to the reputable source of the event
 }
 
 export interface CenturyType {
@@ -28,5 +27,4 @@ export const INITIAL_EVENT: EventType = {
   description: "",
   link: "",
   index: 0,
-  source: "",
 };
