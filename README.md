@@ -2,7 +2,7 @@
 
 ## AI-Generated World History
 
-"How We Got Here" is a comprehensive world history timeline that takes you on a journey through human civilization history. Our interactive timeline presents key historical events with engaging illustrations, all generated using artificial intelligence. This AI-driven approach offers a unique perspective on how our world has evolved over time, free from individual biases and presenting a collective view of history.
+"How We Got Here" is an experimental world history timeline using AI-generated illustrations. This project explores new ways to present historical events through artificial intelligence. While we aim for an interesting overview of human civilization, it's important to note that this is primarily an experiment and should be complemented with established historical sources for a more comprehensive understanding.
 
 ## Documentation
 
